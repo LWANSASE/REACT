@@ -7,7 +7,7 @@ import streamlit as st
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="Multi-Facility Antibiotic Stewardship Dashboard", layout="wide"
+    page_title="REACTAFRICA | ASPIRE DASHBOARD", layout="wide"
 )
 
 # --- CUSTOM CSS FOR METRIC TILES ---
