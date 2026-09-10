@@ -1,13 +1,13 @@
+import glob
 import os
 import re
-import glob
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="REACTAFRICA | ASPIRE DASHBOARD", layout="wide"
+    page_title="Multi-Facility Antibiotic Stewardship Dashboard", layout="wide"
 )
 
 # --- CUSTOM CSS FOR METRIC TILES ---
@@ -277,13 +277,6 @@ def render_tile(title, value, subtext=""):
     )
 
 
-def extract_numeric(value):
-    if pd.isna(value):
-        return None
-    match = re.search(r"(\d+(\.\d+)?)", str(value))
-    return float(match.group(1)) if match else None
-
-
 def render_facility_dashboard(
     facility_code, full_name, country, facility_match, tab
 ):
@@ -547,46 +540,41 @@ def render_facility_dashboard(
                 .str.upper()
             )
 
-            compliant_count = comp_series.isin(["YES", "Y", "1", "TRUE"]).sum()
-            non_compliant_count = comp_series.isin(
-                ["NO", "N", "0", "FALSE"]
-            ).sum()
-            evaluated_count = compliant_count + non_compliant_count
-            total_prescriptions = len(comp_series.dropna())
+            # 1. Total Prescribed Antibiotics across the facility (Denominator)
+            total_prescriptions = len(all_abx) if all_abx else len(comp_series.dropna())
 
-            overall_compliance_pct = (
-                (compliant_count / evaluated_count * 100)
-                if evaluated_count > 0
-                else 0.0
-            )
+            # 2. Compliant Count (Yes)
+            compliant_count = comp_series.isin(["YES", "Y", "1", "TRUE"]).sum()
+
+            # 3. Non-Compliant Count (Derived strictly so Compliant + Non-Compliant = Total)
+            non_compliant_count = max(0, total_prescriptions - compliant_count)
+
+            # 4. Reconciled Percentages (Must sum to 100.0%)
+            if total_prescriptions > 0:
+                compliant_pct = (compliant_count / total_prescriptions) * 100
+                non_compliant_pct = 100.0 - compliant_pct
+            else:
+                compliant_pct = 0.0
+                non_compliant_pct = 0.0
 
             gc1, gc2, gc3 = st.columns(3)
             with gc1:
                 render_tile(
                     "Guidelines Compliance",
-                    f"{overall_compliance_pct:.1f}%",
-                    (
-                        f"{compliant_count:,} of {evaluated_count:,} Evaluated"
-                        " Prescriptions"
-                    ),
+                    f"{total_prescriptions:,}",
+                    f"from {total_patients:,} reviewed files",
                 )
             with gc2:
                 render_tile(
                     "Compliant Prescriptions (Yes)",
                     f"{compliant_count:,}",
-                    (
-                        f"{(compliant_count/total_prescriptions*100):.1f}% Total"
-                        " Prescriptions"
-                    ),
+                    f"{compliant_pct:.1f}% Total Prescriptions",
                 )
             with gc3:
                 render_tile(
                     "Non-Compliant Prescriptions (No)",
                     f"{non_compliant_count:,}",
-                    (
-                        f"{(non_compliant_count/total_prescriptions*100):.1f}% Total"
-                        " Prescriptions"
-                    ),
+                    f"{non_compliant_pct:.1f}% Total Prescriptions",
                 )
         else:
             st.error(
@@ -842,73 +830,6 @@ def render_facility_dashboard(
                     use_container_width=True,
                     key=f"specimen_{facility_code}",
                 )
-
-        # --- DURATION OF TOP 10 ANTIBIOTICS CHART ---
-        st.markdown("---")
-        st.subheader("⏱️ Average Duration of Treatment (Top 10 Antibiotics)")
-
-        if not raw_fac_df.empty and "ANTIBIOTIC" in raw_fac_df.columns:
-            if "DURATION" in raw_fac_df.columns:
-                top10_names = (
-                    pd.Series(all_abx).value_counts().head(10).index.tolist()
-                    if all_abx
-                    else []
-                )
-
-                df_dur = raw_fac_df[
-                    raw_fac_df["ANTIBIOTIC"].isin(top10_names)
-                ].copy()
-
-                df_dur["CLEAN_DURATION"] = df_dur["DURATION"].apply(
-                    extract_numeric
-                )
-                df_dur = df_dur.dropna(subset=["CLEAN_DURATION"])
-
-                if not df_dur.empty:
-                    duration_stats = (
-                        df_dur.groupby("ANTIBIOTIC")["CLEAN_DURATION"]
-                        .mean()
-                        .reset_index()
-                    )
-                    duration_stats.columns = ["Antibiotic", "Avg_Days"]
-                    duration_stats["Avg_Days"] = duration_stats[
-                        "Avg_Days"
-                    ].round(1)
-                    duration_stats = duration_stats.sort_values(
-                        by="Avg_Days", ascending=False
-                    )
-
-                    fig_dur = px.bar(
-                        duration_stats,
-                        x="Antibiotic",
-                        y="Avg_Days",
-                        title="Average Duration (Days) based on 'DURATION'",
-                        text="Avg_Days",
-                        color="Avg_Days",
-                        color_continuous_scale="Teal",
-                        labels={"Avg_Days": "Mean Days"},
-                    )
-                    fig_dur.update_traces(
-                        textangle=0,
-                        textposition="outside",
-                        texttemplate="%{text} d",
-                    )
-                    fig_dur.update_xaxes(tickangle=0)
-                    fig_dur.update_yaxes(tickangle=0)
-                    st.plotly_chart(
-                        fig_dur,
-                        use_container_width=True,
-                        key=f"dur_chart_{facility_code}",
-                    )
-                else:
-                    st.warning(
-                        "No valid numeric duration values found in column"
-                        " **`DURATION`**."
-                    )
-            else:
-                st.error("Missing required column **`DURATION`** in dataset.")
-        else:
-            st.info("No raw dataset available to compute treatment durations.")
 
         st.markdown("---")
 
