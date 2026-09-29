@@ -1,0 +1,739 @@
+FILE NUMBER,FACILITY,PATIENT GENDER,AGE,PATIENT HAS MALARIA,PATIENT HAS TUBERCULOSIS,PATIENT HIV STATUS,DIAGNOSIS,NUMBER OF ANTIBIOTICS,ANTIBIOTIC,DEESCALATION CHANGE OF TREATMENT DONE,TREATMENT TYPE,GUIDELINES COMPLIANCE
+P04021/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,SAM with severe anaemia 2Â° severe malaria,1,Ceftriaxone,No,Empirical,Yes
+P03984/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,Pneumonia and SAM,2,Ceftriaxone,No,Empirical,No
+P03967/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Severe acute malnutrition with AGE and UTI,1,Ceftriaxone,No,Empirical,Yes
+P03841/26,University Teaching Hospital (Paediatric Hospital),Female,6,No,No,Negative,Severe acute malnutrition with edema in known CP and hydrocephalus,2,Ceftriaxone,No,Empirical,Yes
+P03111/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe acute malnutrition and Hydrocephalus with Pneumonia r/o PTB and urosepsis,2,Ceftriaxone,No,Empirical,Yes
+P01325/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. LONNS 2. Neonatal jaundice 3. Subdural effusion with flattened gyri,2,Cefotaxime,No,Empirical,Yes
+P00028/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Neonatal sepsis with otitis media,5,Benzylpenicillin,No,Empirical,Yes
+P02726/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,1. LONNS 2. Neonatal jaundice 3. Recurrent hypoglycemia,2,Cefotaxime,No,Empirical,No
+P04038/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,SAM with oedema with dermatosis,1,Ceftriaxone,No,Empirical,Yes
+p05035/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Suspected Chickenpox with reactive arthritis,2,Ceftriaxone,No,Empirical,Yes
+p03591/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,,Measles with pneumonia,1,Ceftriaxone,Yes,Empirical,Yes
+P04300/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Staphyloccocal scalded skin sydrome,2,Cefotaxime,No,Empirical,Yes
+p03500/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,Yes,Negative,Presumptive PTB with superimposed pneumonia,2,Ceftriaxone,No,Empirical,Yes
+p04292/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,LONNS with pneumonia,2,Cefotaxime,Yes,Empirical,Yes
+P04198/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,LONNS with Meningitis 2.congenital loui,2,Benzylpenicillin,No,Empirical,Yes
+p06080,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,facial palsy,1,Ceftriaxone,No,Empirical,No
+p05876/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,Enteric fever,1,Ceftriaxone,Yes,Empirical,Yes
+P06732,University Teaching Hospital (Paediatric Hospital),Female,1,Unknown,Yes,,CAP r/o PTB,1,Ceftriaxone,Yes,Empirical,Yes
+P07108/26,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,No,,S.Malaria complicated by seizures,1,Ceftriaxone,Yes,Prophylaxis,Yes
+P07150/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute Brochiolitis,1,Benzylpenicillin,Yes,Empirical,No
+P06487/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,Acute tonsilitis,1,Benzylpenicillin,No,Empirical,Yes
+p07790/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis ? foci,1,Ceftriaxone,Yes,Empirical,Yes
+P07390/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Suspected Scarlet fever,1,Benzylpenicillin,Yes,Empirical,Yes
+P06412,University Teaching Hospital (Paediatric Hospital),Male,0,Unknown,No,Negative,Sepsis foci GIT,1,Ceftriaxone,No,Empirical,Yes
+p06319/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Syndromic Toodler with pneumonia,1,Ceftriaxone,No,Empirical,Yes
+p06191/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,,Pharyngotonsilitis grade 2,1,Benzylpenicillin,No,Empirical,Yes
+p03366/26,University Teaching Hospital (Paediatric Hospital),Male,9,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P02840/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Meningo-Encephaalitis,1,Ceftriaxone,No,Empirical,Yes
+p02232/26,University Teaching Hospital (Paediatric Hospital),Male,5,Yes,No,Negative,Severe Malaria complicated by seizures,1,Ceftriaxone,No,Empirical,Yes
+p00917,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Enteric fever,1,Ceftriaxone,No,Empirical,Yes
+p00672/26,University Teaching Hospital (Paediatric Hospital),Male,9,No,No,Negative,Probable Enteric Fever,1,Ciprofloxacin,No,Empirical,Yes
+p00056/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,Viral Hepatitis,1,Cefotaxime,No,Empirical,No
+p02478/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,,SAM with Aspiration Pneumonia,2,Ceftriaxone,No,Empirical,Yes
+p02791/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,,SAM with S pneumonia,2,Ceftriaxone,No,Empirical,Yes
+P05409/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,SAM with edema,1,Ceftriaxone,No,Prophylaxis,Yes
+p01502/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,,ADD with no dehydraion r/o Enteric fever,1,Ciprofloxacin,No,Empirical,No
+p01358/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,,SAM,1,Ceftriaxone,No,,Yes
+p01311/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,,SAM,1,Ceftriaxone,No,Empirical,Yes
+p01135/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Positive,SAM with pneumonia,1,Ceftriaxone,No,Empirical,No
+p00836/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,SAM with severe Malaria,1,Ceftriaxone,,Empirical,No
+P02740126,University Teaching Hospital (Paediatric Hospital),Male,1,Unknown,No,,AGE with no dehydration with SAM,1,Ceftriaxone,No,Empirical,No
+p02739126,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,,SAM,1,Ceftriaxone,No,Prophylaxis,Yes
+p02224/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,,SAM,1,Ceftriaxone,No,Empirical,Yes
+P04544/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,Yes,,SAM with wasting and AGE with no dehydration and PTB,1,Ceftriaxone,No,Empirical,Yes
+P04914/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Yes,Negative,PTB with SAM,1,Ceftriaxone,No,Prophylaxis,Yes
+P04924/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,Negative,SAM with edema3+,1,Ceftriaxone,No,Prophylaxis,Yes
+P05846/26,University Teaching Hospital (Paediatric Hospital),Female,5,No,Unknown,Negative,SAM with oedema and pneumonia r/o PTB,1,Ceftriaxone,No,Empirical,Yes
+P05897/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,SAM with wasting and Pneumonia r/o PTB,1,Ceftriaxone,No,Empirical,Yes
+P05470/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Unknown,,"SAM with wasting, pneumonia, enteric fever, PTB",1,Ceftriaxone,No,Empirical,Yes
+P05479/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,AGE with some dehydration and SAM with wasting,1,Ceftriaxone,No,Empirical,Yes
+P05166/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,Yes,Negative,SAM and PTB,5,Ceftriaxone,No,Empirical,Yes
+P05127/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Syndrome infant (achondroplasia) with SAM and GDD,1,Ceftriaxone,No,Prophylaxis,Yes
+P04996/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,Severe Acute malnutrition with wasting,2,Benzylpenicillin,No,Prophylaxis,Yes
+P0715126,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,1. SAM 2. Pneumonia 3. Moderate ana,3,Ceftriaxone,No,Directed,Yes
+P04449/26,University Teaching Hospital (Paediatric Hospital),Female,13,No,No,Negative,SAM,1,Ceftriaxone,No,Prophylaxis,Yes
+P04095/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,1 P. sepsis 2. NNJ 3. Congenital Luis,3,Benzylpenicillin,No,Empirical,Yes
+P04313/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,Unknown,Negative,SAM in shunted hydrocephalus pt,2,Ceftriaxone,No,Empirical,Yes
+P04415/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,Unknown,Negative,SAM with oedema with severe anaemia,1,Ceftriaxone,No,Prophylaxis,Yes
+P04428/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Unknown,Negative,SAM with pneumonia in syndromic baby with multiple congenital anomalies,1,Cefotaxime,No,Empirical,Yes
+P04439/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,SAM with pneumonia,1,Cefotaxime,No,Empirical,Yes
+P01134/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Pneumonia in pt with Acyanotic CHD,2,Benzylpenicillin,No,Empirical,Yes
+P04407/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe pneumonia,1,Cefotaxime,No,Empirical,Yes
+P05967/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. EONNS 2. Neonatal jaundice 3. Opthalmia neonatorum,2,Cefotaxime,No,Empirical,Yes
+P00790/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Severe acute malnutrition with Pneumonia and severe Anaemia,2,Ceftriaxone,No,Empirical,Yes
+P00684/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Severe acute malnutrition with edema in known CP with pathological femur fracture,3,Ceftriaxone,No,Empirical,Yes
+P00664/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Severe acute malnutrition with wasting with hx of hirchsprungs disease,1,Ceftriaxone,No,Prophylaxis,Yes
+P00574/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe acute malnutrition and Pneumonia in SCD,1,Ceftriaxone,No,Empirical,Yes
+P00519/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Severe acute malnutrition in known CP with structural epilepsy,1,Ceftriaxone,No,Prophylaxis,Yes
+P00486,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Severe acute malnutrition with sepsis foci GI and AGE with ongoing losses and metabolic acidosis,2,Ceftriaxone,No,Empirical,Yes
+P04537/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Severe acute malnutrition with moderate iron deficiency anemia,1,Ceftriaxone,No,Empirical,Yes
+P03370/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Yes,Positive,RVD-R stage 4 with SAM and PTB with severe anaemia,3,Ceftriaxone,No,Empirical,Yes
+P07340/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,"SAM, edematous type with dermatosis 3+ with chronic diarrhoea",2,Ceftriaxone,No,Empirical,Yes
+P06919/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,SAM with sepsis focus pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P06851/26,University Teaching Hospital (Paediatric Hospital),Male,2,Yes,No,Negative,1. SAM with oedema 2. Bilateral foot ulcers 3. Post severe malaria with neurological sequelae,3,Ceftriaxone,Yes,Empirical,Yes
+P06148 /26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Unknown,Negative,1. SAM with AGE . TB,2,Ceftriaxone,No,Empirical,Yes
+P01411/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Unknown,Negative,1. SAM with oedema 2. ADD with AGE,1,Ceftriaxone,No,Empirical,Yes
+P07182/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever,3,Ciprofloxacin,No,Empirical,Yes
+P07508/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Ophthalmia neonatorum,1,Cefotaxime,No,Empirical,Yes
+P07509/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Nephrotic syndrome,1,Benzylpenicillin,No,Prophylaxis,Yes
+P04444/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Congenital luis complicated by pneumonia,2,Cefotaxime,No,Empirical,Yes
+P04420/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Cryptococcal meningitis,2,Ceftriaxone,No,Empirical,No
+P03591/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Pneumonia with measles,1,Ceftriaxone,No,Empirical,Yes
+P04287/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Itchthyosis with superimposed infection in RVD exposed infant r/o TO,1,Cefotaxime,No,Empirical,Yes
+P05519/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,Severe malaria complicated by severe anemia and AKI,2,Ceftriaxone,No,Prophylaxis,Yes
+P07184/26,University Teaching Hospital (Paediatric Hospital),Female,5,No,No,Negative,"Pyelonephritis,  anal fissure,",2,Ciprofloxacin,No,Empirical,Yes
+P05568/26,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,,AGE ? enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P07387/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Positive,"Meningoencephalitis r/o TBM,severe pneumonia in HIV positive",2,Co-trimoxazole,No,Prophylaxis,Yes
+P04578/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Acquired hydrocephalus secondary to partially treated meningiti,1,Ceftriaxone,No,Empirical,Yes
+P06862/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,"?CAP with pleural effusion, presumptive TB",1,Ceftriaxone,No,Empirical,Yes
+P06100/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,"Sepsis, severe malaria,  TOF and PDA in dysmorphic baby and superimposed pneumonia",2,Ceftriaxone,No,Empirical,Yes
+P04032/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Moderate acute bronchiolitis with febrile seizures,1,Benzylpenicillin,No,Empirical,No
+P03336/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Meningitis,1,Ceftriaxone,No,Empirical,Yes
+P01870/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Acute bronchiolitis with superimposed pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P00834/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,Unknown,Negative,"Meningoencephalitis,  Pneumonia r/o PTB SAM in CP",1,Ceftriaxone,No,Empirical,Yes
+P0020/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,"Sepsis focus GI with diarrhea,  pharingotonsilitis",1,Ceftriaxone,No,Empirical,Yes
+P07249/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,Enteric fever,3,Ceftriaxone,No,Empirical,Yes
+P07252/26,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Enteric fever,2,Ceftriaxone,No,Empirical,Yes
+P07444/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever,1,Ceftriaxone,No,Empirical,Yes
+P07148/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,Pneumonia and sepsis with panyctopenia,3,Ceftriaxone,No,Empirical,Yes
+P05078/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever with moderate anemia r/o Kochs disease,4,Ciprofloxacin,No,Directed,Yes
+P04130/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Late onset Neonatal Sepsis and Staphylococcal scalded skin syndrome in RVD-exposed,1,Cefotaxime,No,Empirical,Yes
+P04106/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Late onset Neonatal Sepsis foci severe pneumonia and opthalmic neonatorum,2,Cefotaxime,No,Empirical,Yes
+P03959/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Measles with severe pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P03931/26,University Teaching Hospital (Paediatric Hospital),Female,11,No,Yes,Positive,Pulmonary TB in RVD-R on ATT and ART,2,Ceftriaxone,Yes,Empirical,Yes
+P03924/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Measles and Community acquired pneumonia,3,Ceftriaxone,No,Empirical,Yes
+P03865/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Measles and ADD with no dehydration,1,Ceftriaxone,No,Empirical,Yes
+P03318/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Enteric fever in newly diagnosed SCD,2,Ciprofloxacin,No,Empirical,Yes
+P0397/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,Yes,Negative,Severe acute malnutrition with PTB and TB adenitis,1,Ceftriaxone,No,Empirical,Yes
+P03240/26,University Teaching Hospital (Paediatric Hospital),Female,14,No,Yes,Negative,Pellagra and Crytococcal meningitis,1,Ceftriaxone,No,Empirical,Yes
+P05861/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,Meningoencephalitis and aspiration pneumonia and malaria,1,Ceftriaxone,No,Empirical,Yes
+P05779/26,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,No,Negative,Tropical malaria splenomegally,1,Ceftriaxone,No,Empirical,Yes
+P0432/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Hyperactive airway disease,2,Ceftriaxone,No,Empirical,Yes
+P04463/26,University Teaching Hospital (Paediatric Hospital),Female,4,Yes,No,Negative,Severe malaria with cerebral malaria severe anemia black water fever and algid malaria,1,Ceftriaxone,No,Empirical,Yes
+P05076/26,University Teaching Hospital (Paediatric Hospital),Male,15,No,No,Negative,Meningoencephalitis,1,Ceftriaxone,No,Empirical,Yes
+P02233/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Meningoencephalitis and Enteric fever,1,Ceftriaxone,No,Empirical,Yes
+P02495/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Sepsis foci Acute Gastroenteritis with no dehydration and severe pneumonia,3,Ceftriaxone,No,Empirical,Yes
+P01815/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Severe acute malnutrition with AGE,1,Ceftriaxone,No,Empirical,No
+P07295/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Yes,Negative,Severe acute malnutrition with wasting and PTB and GERD,1,Ceftriaxone,No,Empirical,Yes
+P07032/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe acute malnutrition with severe wasting and global developmental delay secondary to torch infection,1,Ceftriaxone,No,Empirical,Yes
+P06889/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,No,Negative,Severe acute malnutrition with wasting and AGE with some dehydration and CAP and severe malaria,2,Ceftriaxone,Yes,Empirical,Yes
+P06305/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Severe acute malnutrition and severe anemia and pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P06049/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Severe acute malnutrition with wasting and AGE with ongoing losses,2,Ceftriaxone,No,Empirical,Yes
+P05392/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis secondary to ADD with some dehydration and SAM,1,Ceftriaxone,No,Empirical,Yes
+P00023/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,Negative,Severe acute malnutrition and iron deficiency anemia,1,Cefotaxime,No,Prophylaxis,Yes
+P00470/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Severe acute malnutrition with wasting and oral candidiasis with Pneumonia,2,Ceftriaxone,No,Empirical,Yes
+p07400/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Sepsis foci pnueumonia in newy dx RVD R pt,1,Cefotaxime,No,Empirical,No
+P07498/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,1 Suspected Measles 2.Acute Pharyngotonsilitis,1,Benzylpenicillin,Yes,Empirical,No
+p07741/26,University Teaching Hospital (Paediatric Hospital),Male,2,Unknown,No,Negative,Suspected measles 2.Conjuctivitis,1,Benzylpenicillin,No,Empirical,No
+P07495/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Suspected measles,1,Ceftriaxone,No,Empirical,No
+p06949/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,Yes,Positive,AHD with disseminate TB,1,Ceftriaxone,No,Empirical,Yes
+p15423/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Negative,Enteric Fever,1,Ceftriaxone,No,Empirical,Yes
+P01802/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,Positive,1. Advanced HIV disease with presumptive PTB 2. FTT 3. Meningoencephalitis r/o TBM 4. Oral thrush,2,Ceftriaxone,No,Empirical,Yes
+P01886/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Yes,Positive,PTB n newly diagnosed RVD-R with severe anaemia,1,Ceftriaxone,No,Empirical,Yes
+P02725/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Staphylococcal Scalded Skin Syndrome,3,Cefotaxime,No,Empirical,Yes
+P02462/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Unknown,Positive,PTB in newly diagnosed RVD-R with MAM and moderate anaemia,2,Ceftriaxone,No,Empirical,Yes
+P06506/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Positive,Chronic malnutrition with severe wasting  in RVD-R,2,Co-trimoxazole,No,Empirical,Yes
+P06868/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Measles with Pneumonia,2,Ceftriaxone,No,Empirical,Yes
+P06580/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Negative,Enteric fever and functional constipation,2,Ceftriaxone,No,Empirical,Yes
+P06126/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Measles complicated by severe pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P06043/26,University Teaching Hospital (Paediatric Hospital),Female,7,No,No,Negative,Enteric fever with Pharyngotonsilitis,1,Ceftriaxone,No,Empirical,Yes
+P05959/26,University Teaching Hospital (Paediatric Hospital),Female,2,Yes,Yes,Positive,Advanced HIV disease on ART with presumptive PTB,2,Co-trimoxazole,No,Empirical,Yes
+P05878/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Congenital Louis in RVD-exposed,2,Benzylpenicillin,No,Empirical,No
+P05816/26,University Teaching Hospital (Paediatric Hospital),Female,8,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P05781/26,University Teaching Hospital (Paediatric Hospital),Female,3,No,No,Negative,Severe pneumonia r/o PTB and pharyngotonsilitis,2,Ceftriaxone,No,Empirical,Yes
+P02736/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,Yes,Positive,TBM in  RVD-R on ART,1,Ceftriaxone,No,Empirical,Yes
+P02374/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,Yes,Negative,Respiratory Failure secondary to milliary tb,3,Piperacillin/tazobactam,No,Empirical,Yes
+P00457/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Enteric fever,1,Ceftriaxone,No,Empirical,Yes
+P00474/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,Enteric fever,3,Doxycycline,No,Empirical,Yes
+P00647/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,Negative,Enteric fever,3,Ceftriaxone,No,Empirical,Yes
+P00906/26,University Teaching Hospital (Paediatric Hospital),Female,15,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P01055/26,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Presumptive enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P01299/26,University Teaching Hospital (Paediatric Hospital),Male,10,No,Yes,Negative,TB meningitis,2,Ceftriaxone,No,Empirical,Yes
+p02304/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Chicken pox with FFT 2Â° reduced feeds,1,Cefotaxime,No,Empirical,No
+p02302/26,University Teaching Hospital (Paediatric Hospital),Female,3,No,Unknown,Negative,?TBM in background of poor compliance,1,Ceftriaxone,No,Empirical,Yes
+p02188/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,Acute Cholecystitisn r/o viral hepatitis,1,Cefotaxime,Yes,Directed,Yes
+p01922/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,LONNS with congenital Loui,2,Benzylpenicillin,No,Empirical,Yes
+p02101/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS 2Â° TORCH with SSSS,2,Cefotaxime,No,Empirical,Yes
+p01735/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,SSSS,2,Cefotaxime,No,Empirical,Yes
+p01748/26,University Teaching Hospital (Paediatric Hospital),Female,6,No,No,Negative,Enteric Fever,2,Ceftriaxone,No,Empirical,Yes
+p02433/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Congenital loui in pt with FTT and CHD,4,Cefotaxime,No,Empirical,Yes
+p03088,University Teaching Hospital (Paediatric Hospital),Female,8,No,No,,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+p03032/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+p030255/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,neonatal opthalmia,2,Cefotaxime,No,Empirical,Yes
+p02836/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Opthalmia Neonatorium,1,Cefotaxime,No,Empirical,Yes
+p02988,University Teaching Hospital (Paediatric Hospital),Female,3,No,Yes,Negative,superimposed pneumonia r/o MDR TB in newly dx SCD pt,1,Ceftriaxone,No,Empirical,Yes
+P01309/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,Negative,Suspected Cholera,1,Ciprofloxacin,No,Empirical,Yes
+P01277/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P01273/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Early onset Neonatal Sepsis with Neonatal Jaundice and congenital Louis,2,Cefotaxime,No,Empirical,Yes
+P01111/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Congenital Louis,2,Benzylpenicillin,No,Empirical,Yes
+P01251/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Late onset Neonatal Sepsis and opthalmia neonatorum and paronychia in RVD-exposed,2,Cefotaxime,No,Empirical,Yes
+P01130/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,Enteric fever and moderate microcytic hypochromic anemia,2,Ciprofloxacin,No,Empirical,Yes
+P00913/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,Severe Anaemia secondary to enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P00908/26,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,Enteric fever with pyelonephritis and AKI,1,Ciprofloxacin,No,Empirical,Yes
+P00903/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,Meningococcal meningitis,2,Ceftriaxone,No,Empirical,Yes
+P00675/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Enteric fever with severe anemia,3,Ceftriaxone,No,Empirical,Yes
+P00725/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Staphylococcus skin infection,1,Cloxacillin,No,Empirical,Yes
+P00153/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Measles with acute Pharyngotonsilitis,2,Benzylpenicillin,No,Empirical,Yes
+P00085/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Late onset Neonatal Sepsis and Staphylococcal scalded syndrome,2,Cefotaxime,No,Empirical,Yes
+p07841/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Aspiration Pneumonia inT21 with ACHD and congenital hypothyroidism,2,Cefotaxime,No,Empirical,Yes
+P07313/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,Yes,Positive,Disseminated TB in newly diagnosed RVD-R,2,Ceftriaxone,No,Empirical,Yes
+P07296/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Congenital syphilis inn RVD-E,2,Benzylpenicillin,No,Empirical,Yes
+P04762/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,Positive,1. AHD with presumptive PTB 2. SAM 3. HIV associated lung disease,4,Benzylpenicillin,No,Empirical,Yes
+P04015/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,Yes,Positive,1. Malaria 2. Milliary TB in RVD-R,3,Ceftriaxone,No,Empirical,Yes
+P03907/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,Enteric fever with hematuria and proteinuria,2,Ciprofloxacin,No,Empirical,Yes
+P03377/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,1. Complicated enteric fever 2. Septic shock 3. Pneumonia 4. Moderate anaemia,5,Ceftriaxone,No,Empirical,Yes
+P03296/6,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,1. Sepsis foci AGE 2. Pneumonia 3. Suspected enteric fever with severe anaemia & thrombocytopenia 4. CNS manifestations r/o TBM,5,Ceftriaxone,No,Empirical,Yes
+P05847/26,University Teaching Hospital (Paediatric Hospital),Female,16,No,No,Positive,Enteric fever,4,Amoxicillin,No,Empirical,Yes
+P03767/26,University Teaching Hospital (Paediatric Hospital),Female,16,No,No,Negative,1. Severe anaemia 2Â° amenorrhoea 2. Suspected SLE r/o enteric fever,2,Ceftriaxone,No,Empirical,Yes
+P04530/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Bronchiolitis with severe anaemia,2,Ceftriaxone,No,Empirical,
+P05168/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,1. Lt leg cellulitis 2. ? subacute osteomyelitis,2,Ciprofloxacin,No,Directed,Yes
+P05043/26,University Teaching Hospital (Paediatric Hospital),Female,9,Yes,No,Negative,Severe malaria complicated by AKI with mild transaminitis,2,Ceftriaxone,No,Prophylaxis,Yes
+P06756/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,1. AGE with ADD 2. Severe malaria 3. Severe anaemia,1,Ceftriaxone,No,Empirical,Yes
+P07332/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,ICH with increased ICP secondary to meningoencephalitis with respiratory failure,1,Meropenem,No,Empirical,Yes
+P04042/26,University Teaching Hospital (Paediatric Hospital),Female,4,Yes,No,,Sepsis with meningoencephalitis with raised ICP,1,Meropenem,No,Empirical,Yes
+P02697/26,University Teaching Hospital (Paediatric Hospital),Female,15,No,No,,Cerebral malaria with severe anemia and respiratory failure,2,Ceftriaxone,No,Prophylaxis,Yes
+P02991/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,,"EONNS wigh meningitis, respiratory failure",1,Cefotaxime,No,Empirical,Yes
+p03340/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,MOD 2Â° severe anaphylaxis 2Â° been sting,1,Ceftriaxone,No,Prophylaxis,Yes
+P06505/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"Sepsis meningitis, Pneumonia alba, Congenital luis,  ?nephrotic syndrome",3,Cefotaxime,No,Empirical,Yes
+P06905/26,University Teaching Hospital (Paediatric Hospital),Female,12,No,No,Negative,Enteric fever with acute cholecystitis,1,Ciprofloxacin,No,Empirical,Yes
+P06451/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,"AGE with no dehydration,  suspected measles",1,Ceftriaxone,No,Empirical,Yes
+P06304/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with severe pneumonia,2,Cefotaxime,No,Empirical,No
+P05564/26,University Teaching Hospital (Paediatric Hospital),Male,16,No,No,,Enteric fever with moderate anemia,4,Ceftriaxone,No,Empirical,Yes
+P02194/26,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,TBM,2,Ceftriaxone,No,Prophylaxis,No
+P06954/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,P. NNS with NNJ,1,Cefotaxime,No,Empirical,No
+P06860/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,NNS with meningitis,2,Cefotaxime,No,Empirical,Yes
+P03058/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,1. Ophthalmia neonatorum 2. NNJ,1,Cefotaxime,No,Empirical,Yes
+P02313/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS 2Â° omphalitis and bronchiolitis r/o meningitis,2,Cefotaxime,No,Empirical,Yes
+P00686/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,"EONNS focus omphalitis, ophthalmia neonatorum",3,Cefotaxime,No,Empirical,Yes
+P01063/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,LONNS in RVD exposed,1,Cefotaxime,No,Empirical,Yes
+P00481/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with coryzal illness,2,Cefotaxime,No,Empirical,Yes
+P04227/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,NNJ 2Â° Sepsis,2,Cefotaxime,No,Empirical,Yes
+P04288/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,NNJ,1,Cefotaxime,No,Empirical,No
+p01692/25,University Teaching Hospital (Paediatric Hospital),Male,0,Unknown,No,Negative,CAP vs PTB in RVD-R,3,Gentamicin,No,Empirical,Yes
+P10055/26,University Teaching Hospital (Paediatric Hospital),Female,10,No,No,Negative,1 Septic shock foci pneumonia 2. Severe anaemia,1,Ceftriaxone,No,Empirical,Yes
+P02121/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,SAM with ADD and severe anaemia,1,Ceftriaxone,Yes,Empirical,Yes
+P02277/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Septic shock in hypoglycemia with SAM and severe dermatosis,1,Cefotaxime,No,Empirical,Yes
+P00874/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,1. Septic shock 2. Meningoencephalitis 3. Pneumonia r/o PTB 4. Enteric fever,2,Ceftriaxone,No,Empirical,Yes
+P00552/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,,RVD-E with sepsis 2Â° Meningoencephalitis and pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P04895/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,Peritonitis & perforated bowel post lap for intussusception in septic shock with AKI & metabolic acidosis,2,Ceftriaxone,No,Empirical,Yes
+P04414/6,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,Unknown,,Severe bronchiolitis with respiratory failure,2,Cefotaxime,No,Empirical,Yes
+P15149/25,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. Meningoencephalitis 2. Severe pneumonia 3. ACHD (VSD) with cardiogenic shock,1,Ceftriaxone,No,Empirical,Yes
+P06859/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis meningitis with septic shock with MODs,4,Cefotaxime,No,Empirical,Yes
+P03241/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,Aplastic anemia with left hand cellulitis,3,Ceftriaxone,No,Empirical,Yes
+P04320/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,Negative,Septic shock and metabolic syndrome and SAM in known CP patient,1,Ceftriaxone,No,Prophylaxis,Yes
+p02411,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,ongoing sepsis with pneumonia,2,Gentamicin,No,Empirical,Yes
+p02231/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,,meningoencephalitis with raised ICP,1,Cefotaxime,Yes,Empirical,Yes
+p00548,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,Negative,meningoencephalitis with raised ICP,1,Ceftriaxone,No,Empirical,Yes
+p00838/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,Negative,Meningencehalitis with metabolic acidosis,1,Ceftriaxone,No,Empirical,Yes
+p00698/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,Sepsis with MODS,2,Ceftriaxone,No,Empirical,Yes
+p04352/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,meningoencephalitis with symptomatic seizures  and raised ICP,2,Ceftriaxone,No,Empirical,Yes
+p02414/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,LONNS with Pneumonia and meningitis,1,Cefotaxime,No,Empirical,Yes
+p06402/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,MODS 2Â°Septic shock,2,Cefotaxime,No,Empirical,Yes
+p02734/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,S.pneumonia in AHD with presumptive,4,Cefepime,Yes,Empirical,Yes
+p06473,University Teaching Hospital (Paediatric Hospital),Female,15,No,No,Negative,Enteric fever,1,Ciprofloxacin,Yes,Empirical,Yes
+p06456/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,,Enteric fever with bone marrow involvement,2,Ciprofloxacin,No,Empirical,Yes
+p10366/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,HEI with meningitis 2.congental louis,1,Benzylpenicillin,No,Empirical,Yes
+p01504/26,University Teaching Hospital (Paediatric Hospital),Female,12,No,Yes,Negative,Enteric fever,1,Ceftriaxone,No,Empirical,Yes
+p10868/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Positive,S.Pneumonia,2,Ceftriaxone,No,Empirical,No
+p01876/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Enteric fever,1,Ceftriaxone,No,Empirical,Yes
+p02395/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Enteric fever,1,Ciprofloxacin,No,Empirical,Yes
+P06087/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Ventilator acquired pneumonia,4,Benzylpenicillin,No,Empirical,Yes
+P06937/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe Bronchiolitis r/o laryngomalacia,1,Cefotaxime,No,Empirical,No
+P07188/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis with MODS with LONNS and meningitis,1,Cefotaxime,No,Empirical,Yes
+P07436/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Yes,Negative,Meningoencephalitis with raised ICP and acquired hydrocephalus secondary to TBM,2,Ceftriaxone,No,Empirical,Yes
+P005241/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe Pneumonia with respiratory failure  and sepsis with meningoencephalitis,3,Ceftriaxone,No,Empirical,Yes
+001226/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Meningitis secondary to infected myelomeningocele,2,Meropenem,No,Empirical,No
+P01522/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Respiratory failure secondary to lung abcess and recurrent pneunothorax,3,Vancomycin,No,Empirical,Yes
+P06481/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Yes,,Advanced HIV disease newly diagnosed with PTB r/o PJP,4,Ceftriaxone,No,Empirical,Yes
+P06488/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Congenital Luis with neonatal jaundice,3,Cefotaxime,No,Empirical,Yes
+P06457/26,University Teaching Hospital (Paediatric Hospital),Female,5,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P01319/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P01423/26,University Teaching Hospital (Paediatric Hospital),Male,9,Unknown,No,Negative,Enteric fever with severe anaemia,2,Ceftriaxone,No,Empirical,Yes
+P01507/26,University Teaching Hospital (Paediatric Hospital),Female,5,No,No,Negative,Enteric fever,1,Ceftriaxone,No,Empirical,Yes
+p00527/26,University Teaching Hospital (Paediatric Hospital),Female,8,No,No,Negative,VOC in SCD with osteomyelitis,2,Cefotaxime,No,Empirical,Yes
+p00676/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,Unknown,Positive,presumptive TB,1,Ceftriaxone,No,Empirical,Yes
+p00707/26,University Teaching Hospital (Paediatric Hospital),Male,5,Yes,No,Negative,S.Malaria with S Anemia,1,Ceftriaxone,No,Prophylaxis,Yes
+p00035/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,UTI,2,Benzylpenicillin,No,Empirical,Yes
+p01841/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Acute bronchiolitis with superimposed pneumonia,1,Benzylpenicillin,No,Empirical,Yes
+p01795/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,1.Meningoencephalitis 2 ADD with no dehydration,1,Ceftriaxone,No,Empirical,Yes
+p01719/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,Negative,moderate bronchiolitis 2.Coryzal illness,1,Benzylpenicillin,No,Empirical,No
+p01503/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,,Severe anemia in CCF r/o SCD with hypersplenism and spleeenic seuestration,1,Ceftriaxone,No,Prophylaxis,Yes
+p01889/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,S . Pneumonia,2,Cefotaxime,No,Empirical,Yes
+p01088/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,S.Pneumonia  2. ACHD,1,Cefotaxime,No,Empirical,Yes
+p07216/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,1. LONNS 2. meconium plug syndrome,1,Cefotaxime,No,Empirical,Yes
+p07019/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,LONNS,1,Cefotaxime,No,Empirical,Yes
+p06031/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1.LONNS 2. ACHD,2,Cefotaxime,No,Empirical,Yes
+p05086,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,LONNS with Acute bronchiolitis,1,Cefotaxime,No,Empirical,Yes
+p01438/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,LONNS 2Â° Omphaitis vs TORCH,1,Cefotaxime,Yes,Empirical,Yes
+p03978/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Congenital louis,2,Cefotaxime,No,Empirical,Yes
+P07520/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,"Sepsis,  complex ACHD, CLD with acute liver failure and ascites , MAM, ? Autoimmune hepatitis",2,Ceftriaxone,No,Empirical,Yes
+P06938/26,University Teaching Hospital (Paediatric Hospital),Male,5,Yes,No,Negative,Severe malaria complicated by severe,1,Ceftriaxone,No,Prophylaxis,Yes
+P04493/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Sepsis r/o leukemia,1,Ceftriaxone,No,Empirical,Yes
+P04900/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute bronchiolitis with superimposed pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P03382/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,"Severe malaria complicated by severe anemia, cerebral malaria, black water fever",1,Cefotaxime,No,Prophylaxis,Yes
+P01673/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Sepsis focus GI,1,Ciprofloxacin,No,Empirical,Yes
+P06286/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Sepsis foci meningoencephalitis and pneumonia in RVD-R exposed and T21,2,Cefotaxime,No,Empirical,Yes
+P00902/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,Yes,Negative,Meningoencephalitis r/o TBM and severe pneumonia and severe anemia,2,Ceftriaxone,No,Empirical,Yes
+P07515/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Early onset Neonatal Sepsis,1,Cefotaxime,No,Empirical,Yes
+P07132/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Neonatal sepsis with omphalitis and NNJ with BIND,1,Cefotaxime,No,Empirical,Yes
+P06791/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Neonatal sepsis and Neonatal Jaundice r/o Neonatal meningitis,1,Cefotaxime,No,Empirical,Yes
+P06979/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Sepsis r/o congenital Louis,1,Cefotaxime,Yes,Empirical,Yes
+P05041/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Late onset Neonatal Sepsis and FTT,2,Cefotaxime,No,Empirical,Yes
+P05088/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Late onset Neonatal Sepsis foci meningitis and steal syndrome,1,Cefotaxime,No,Empirical,Yes
+P03288/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Late onset Neonatal Sepsis with opthalmia neonatorum and NNJ r/o HSV,1,Cefotaxime,No,Empirical,No
+P00515/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Neonatal sepsis and Neonatal Jaundice r/o rh incompatibility,2,Benzylpenicillin,No,Empirical,Yes
+P01274/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Late onset Neonatal Sepsis with opthalmia neonatorum and NNJ,1,Cefotaxime,No,Empirical,Yes
+p00462/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Coryzal illness r/o pneumonia,1,Cefotaxime,Yes,Prophylaxis,Yes
+p00899/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,,Neonatal Sepsis,1,Cefotaxime,No,Empirical,Yes
+p07286/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,,Bronhiolitis with superimposed pneumonia,1,Ceftriaxone,Yes,Empirical,Yes
+P07503/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,meningoencephalitis,2,Cefotaxime,No,Directed,Yes
+p07028/26,University Teaching Hospital (Paediatric Hospital),Male,12,Yes,No,Negative,Severe Malaria,1,Ceftriaxone,No,Prophylaxis,Yes
+p07667/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Meningoencehalitis,1,Ceftriaxone,No,Empirical,Yes
+P04344/26,University Teaching Hospital (Paediatric Hospital),Male,10,No,No,,Disseminated TB,1,Ceftriaxone,Yes,Empirical,Yes
+P07346/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Urinary tract infection,1,Ceftriaxone,No,Empirical,Yes
+P07433/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Severe Anaemia and mild bronchiolitis and craniosyntosis,1,Benzylpenicillin,No,Empirical,No
+P07688/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Late onset Neonatal Sepsis in a syndromic infant with failure to thrive,1,Cefotaxime,No,Empirical,Yes
+P06821/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,Negative,Enteric fever with constipation,1,Ciprofloxacin,No,Empirical,Yes
+P02772/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Pneumonia and severe anemia,2,Ceftriaxone,No,Empirical,Yes
+P03391/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Suspected enteric fever and severe anemia,1,Ceftriaxone,No,Empirical,Yes
+P03397/26,University Teaching Hospital (Paediatric Hospital),Male,3,Yes,No,Negative,Severe malaria with severe anemia,1,Ceftriaxone,No,Empirical,Yes
+P00336/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,AGE with ongoing losses and no dehydration and pharyngitis,1,Benzylpenicillin,No,Empirical,Yes
+p02946/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Acute Pharyngotonsilitis with no exudate,1,Benzylpenicillin,No,Empirical,Yes
+p03461/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,,Lobar Pneumonia,1,Ceftriaxone,Yes,Empirical,Yes
+p04092,University Teaching Hospital (Paediatric Hospital),Male,9,No,No,,UTI,1,Ceftriaxone,Yes,Empirical,Yes
+p00014,University Teaching Hospital (Paediatric Hospital),Female,11,Unknown,No,,? Post infectious Cerebellitis 2. Sepsis foci Severe pneuonia,1,Ceftriaxone,No,Empirical,Yes
+p00610/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,suspected nephrosis 2Â° post streptocccal glomerulonephritis,1,Benzylpenicillin,Yes,Empirical,Yes
+p00010/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,Negative,AGE,1,Cefotaxime,No,Empirical,No
+P01438/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,AGE with ongoing losses and dehydration and Acute Pharyngotonsilitis,1,Benzylpenicillin,No,Empirical,Yes
+P01336/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Severe pneumonia r/o PTB,1,Ceftriaxone,No,Empirical,Yes
+P01732/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Severe Anaemia r/o enteric fever and SCD,1,Ceftriaxone,No,Empirical,Yes
+P02331/26,University Teaching Hospital (Paediatric Hospital),Female,14,No,No,Negative,"Sepsic shock, meningitis, plastic anemia",2,Ceftriaxone,No,Empirical,Yes
+030870/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,,SCD pt with splenjc sequestration,1,Ceftriaxone,No,Prophylaxis,Yes
+P02397/26,University Teaching Hospital (Paediatric Hospital),Female,6,No,No,Positive,Disseminated TB and SAM with wasting,2,Ceftriaxone,No,Empirical,Yes
+P07490/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,AGE and AKI with metabolic acidocis and fluid overload,1,Ceftriaxone,No,Empirical,Yes
+P02110/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,AGE r/o enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P02214/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute bronchiolitis,1,Cefotaxime,No,Empirical,Yes
+P02113/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,1. Sepsis focus ADD r/o enteric fever 2. Severe anaemia,2,Ceftriaxone,No,Empirical,Yes
+P03041/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,LONNS with acute mild-moderate bronchiolitis,1,Cefotaxime,No,Empirical,Yes
+P0198126,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,LONNS 2Â° to omphalitis in RVD-E,2,Cefotaxime,No,Empirical,Yes
+P02466/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS r/o congenital Luis,2,Cefotaxime,No,Empirical,Yes
+P02497/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,EONNS with NNJ,2,Cefotaxime,No,Empirical,Yes
+P02724/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with AGE and coryzal illness,2,Cefotaxime,No,Empirical,Yes
+P0142526,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with skin infection,3,Benzylpenicillin,No,Empirical,Yes
+P01367/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,No,Negative,Septic shock 2Â° NNS 2Â° Omphalitis,1,Cefotaxime,No,Empirical,Yes
+P02336/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,EONNS with NNJ,2,Cefotaxime,No,Empirical,Yes
+P02269/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,EONNS with seizures 2Â° hypoglycemia,1,Cefotaxime,No,Empirical,Yes
+P00934/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,1. LGIB ? Bleeding diasthesis- hemorrhagic 2. Drug induced dermatitis,1,Cefotaxime,No,Empirical,No
+P06478/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,Severe malaria 2Â° severe anaemia,1,Ceftriaxone,No,Prophylaxis,Yes
+P05944/26,University Teaching Hospital (Paediatric Hospital),Female,14,No,No,Negative,Severe anaemia 2Â° severe malaria,1,Ceftriaxone,No,Empirical,Yes
+P06501/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Severe pneumonia with congenital Luis,2,Cefotaxime,No,Empirical,Yes
+P05021/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Moderate bronchiolitis with superimposed pneumonia,2,Ceftriaxone,Yes,Empirical,Yes
+P05113/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,Acute pharyngitis with pneumonia,3,Benzylpenicillin,No,Empirical,Yes
+P03627/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,Pharyngotonsilitis with UTI,1,Ceftriaxone,No,Empirical,Yes
+P02383/26,University Teaching Hospital (Paediatric Hospital),Male,10,No,No,Negative,1. Septic shock 2Â° enteric fever 2. Large vessel vasculitis r/o takayasu disease,2,Ceftriaxone,Yes,Empirical,Yes
+P02350/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,Acute gastroenteritis,1,Ceftriaxone,No,Empirical,Yes
+P02491/26,University Teaching Hospital (Paediatric Hospital),Male,4,Yes,No,Negative,Severe malaria complicated by severe anaemia with  blackwater fever,1,Cefotaxime,No,Prophylaxis,Yes
+P01057/26,University Teaching Hospital (Paediatric Hospital),Female,14,No,No,Negative,1. Infective endocarditis in CCF r/o pulmonary embolism 2. Electrolyte imbalance 3. Infected decubitus ulcers 4. Chronic malnutrition with episodes of hypoglycemia,2,Ceftriaxone,No,Empirical,Yes
+P00494/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,1. Structural epilepsy 2Â° CNS infections with suspected CVA,1,Ceftriaxone,No,Empirical,Yes
+P01115/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,Severe malaria with severe normocytic normochrmic anaemia,1,Cefotaxime,No,Prophylaxis,Yes
+P00904/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,CHD- TOF +pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P04742/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Moderate bronchiolitis with superimposed pneumonia in RVD-exposed,1,Ceftriaxone,No,Empirical,Yes
+P04528/26,University Teaching Hospital (Paediatric Hospital),Male,4,Yes,No,Negative,Severe malaria complicated by severe anemia,1,Ceftriaxone,No,Empirical,Yes
+P03593/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute bronchiolitis with Pneumonia,1,Ceftriaxone,No,Empirical,Yes
+P01093/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Aspiration pneumonia and AGE,2,Ceftriaxone,No,Empirical,Yes
+P01294/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute bronchiolitis with superimposed pneumonia,2,Benzylpenicillin,No,Empirical,Yes
+P00639/26,University Teaching Hospital (Paediatric Hospital),Female,10,Yes,No,Negative,Severe malaria complicated by cerebral malaria,2,Ceftriaxone,No,Empirical,Yes
+P00671/26,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,Suspected Infective endocarditis,1,Ceftriaxone,No,Empirical,Yes
+P00086/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe pneumonia,2,Benzylpenicillin,No,Empirical,Yes
+P01691/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis foci pneumonia and CHD in T21,5,Benzylpenicillin,No,Empirical,Yes
+P01820/26,University Teaching Hospital (Paediatric Hospital),Female,3,No,No,Negative,AGE with no dehydration r/o enteric fever,1,Ceftriaxone,No,Empirical,Yes
+P01808/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Epileptic spasm syndrome and post infectious demyelinating process,1,Ceftriaxone,No,Empirical,Yes
+P01764/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Moderate bronchiolitis and glomerulonephritis,2,Ceftriaxone,No,Empirical,Yes
+P01362/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,Severe malaria and severe anemia,1,Ceftriaxone,No,Empirical,Yes
+P04504/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe pneumonia r/o PTB,3,Ceftriaxone,No,Empirical,Yes
+P04304/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Moderate acute bronchiolitis,1,Benzylpenicillin,No,Empirical,No
+P01066/26,University Teaching Hospital (Paediatric Hospital),Female,12,No,No,Negative,CHD not in failure,1,Benzylpenicillin,No,Empirical,Yes
+P01247/26,University Teaching Hospital (Paediatric Hospital),Male,3,Yes,No,Negative,Severe malaria complicated by moderate anemia,2,Ceftriaxone,No,Prophylaxis,Yes
+P00619/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Acute bronchiolitis,2,Benzylpenicillin,No,Empirical,No
+P00641/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,"Viral croup, moderate bronchiolitis r/o laryngomalacia",1,Ceftriaxone,No,Prophylaxis,No
+P00064/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Meningoencephalitis with ADD with ongoing loses,2,Ceftriaxone,Unknown,Empirical,Yes
+P01506/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,,Acute otitis media,2,Ceftriaxone,Yes,Empirical,No
+P01817/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"Bronchiolitis with superimposed pneumonia,  AGE with no dehydration",2,Cefotaxime,No,Empirical,Yes
+P01418/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Meningoencephalitis with moderate anemia,2,Benzylpenicillin,No,Empirical,Yes
+P042494/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Yes,Negative,"Urosepsis,  SAM with oedema,  TBM with acute seizures",2,Ceftriaxone,No,Empirical,Yes
+P07776/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Sepsis focus meningitis,3,Cefotaxime,No,Empirical,Yes
+P06358,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"LONNS secondary to omphalitiswith concerns for meningitis,  Congenital luis,  NNJ with concerns for BIND",2,Cefotaxime,No,Empirical,Yes
+P6428/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"LONNS with ophthalmia neonatorum, moderate anemia",2,Cefotaxime,No,Empirical,Yes
+P06085/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,LONNS 2Â° omphalitis,1,Cefotaxime,No,Empirical,Yes
+P04197/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,NNS with NNJ with coryzal illness,1,Cefotaxime,No,Empirical,Yes
+P04134/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,EONNS,1,Cefotaxime,No,Empirical,No
+P04085/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with ophthalmia neonatorum,1,Benzylpenicillin,No,Empirical,Yes
+P00648/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,No,Negative,LONNS,2,Cefotaxime,No,Empirical,Yes
+P07244/26,University Teaching Hospital (Paediatric Hospital),Female,4,Yes,No,Negative,Severe malaria complicated by severe anemia,1,Ceftriaxone,No,Prophylaxis,Yes
+p04555/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Negative,Iron defeciency anemia,1,Ceftriaxone,No,Empirical,Yes
+p01040/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,,Meningoencephalitis,1,Ceftriaxone,No,Empirical,Yes
+P07133/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,"ADD with dehydration,  pneumonia,  severe anemia secondary to anemia of prematurity",1,Cefotaxime,No,Empirical,Yes
+P07317/26,University Teaching Hospital (Paediatric Hospital),Male,-3,No,No,,"Sepsis, ADD with no dehydration,  metabolic acidosis",2,Ceftriaxone,No,Empirical,Yes
+P07321/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,"Acute bronchiolitis,  coryzal illness",1,Benzylpenicillin,No,Empirical,No
+P07705/26,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,Severe malaria with symptomatic anemia,1,Ceftriaxone,No,Empirical,Yes
+P07768/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis,1,Cefotaxime,No,Empirical,Yes
+P04982/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,"SAM with FTT , pneumonia, r/o PTB",1,Cefotaxime,No,Empirical,Yes
+P05029/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Iron deficiency anemia,1,Benzylpenicillin,No,Prophylaxis,No
+P04451/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute Moderate bronchiolitis,1,Ceftriaxone,No,Empirical,No
+P04410/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,Negative,"ADD with no dehydration, bloody diarrhea",1,Ceftriaxone,No,Empirical,No
+P05563/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Structural epilepsy in birth Asphysia and ADD and meningoencephalitis,1,Ceftriaxone,No,Empirical,No
+P05975/26,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Meningoencephalitis r/o enteric fever,2,Ceftriaxone,No,Empirical,Yes
+P06503/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Acute moderate bronchiolitis,2,Benzylpenicillin,No,Empirical,No
+P06358/28,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Acute Gastroenteritis with no dehydration r/o enteric fever,1,Ceftriaxone,No,Empirical,Yes
+P05996/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Severe aspiration pneumonia in RVD-EXPOSED,2,Cefotaxime,No,Empirical,Yes
+P04055/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Hemorrhagic disease of the newborn with hematochezia,1,Ciprofloxacin,No,Empirical,No
+P04028/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute bronchiolitis,1,Cefotaxime,No,Empirical,No
+P03161/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Severe bronchiolitis r/o superimposed pneumonia in RVD-exposed,1,Co-trimoxazole,No,Prophylaxis,Yes
+P07035/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Sepsis foci myelomeningocele in dysmorphic infant,1,Cefotaxime,No,Empirical,Yes
+P07033/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe pneumonia with severe bronchiolitis and AGE with no dehydration with ongoing losses,2,Ceftriaxone,No,Empirical,Yes
+P07218/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Left submandibular lymphadenopathy r/o TB adenitis,2,Ceftriaxone,No,Empirical,Yes
+P07692/26,University Teaching Hospital (Paediatric Hospital),Female,1,Yes,No,Negative,Acute Gastroenteritis with no dehydration and on going losses,1,Ciprofloxacin,No,Empirical,Yes
+P07806/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Acute Gastroenteritis with upper GI bleeding,1,Ciprofloxacin,No,Empirical,Yes
+P04581/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Congenital Louis with meningitis with monoclonic jerks,1,Cefotaxime,No,Empirical,Yes
+P04986/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Bronchiolitis and pneumonia r/o CHD,2,Cefotaxime,No,Empirical,Yes
+P04898/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis foci pneumonia in known HIE 3 with seizures,1,Cefotaxime,No,Empirical,Yes
+P04411/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Urinary tract infection and conjunctivitis,1,Ceftriaxone,No,Empirical,Yes
+p00693/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,ACHD -ASD 2. S.pneumonia,2,Ceftriaxone,No,Empirical,Yes
+p06450/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,No,,S. Malaria complicated by renal dysfunction,1,Ceftriaxone,No,Empirical,Yes
+p05979/26,University Teaching Hospital (Paediatric Hospital),Male,11,Yes,No,,Severe Malaria complicated by black water fever,1,Ceftriaxone,Yes,Prophylaxis,Yes
+p03121/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,post Cerebral severe malaria,1,Ceftriaxone,No,Empirical,Yes
+p02934/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,moderate Acute Bronchiolitis,1,Ceftriaxone,No,Empirical,No
+p06755/26,University Teaching Hospital (Paediatric Hospital),Male,9,No,No,,Acute pharyngotonsilitis,2,Benzylpenicillin,No,Empirical,Yes
+p07023/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Acute bronchiolitis with superimposed pneumonia,1,Benzylpenicillin,Yes,Empirical,Yes
+p07138/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,,mild Community aquired pneumonia,1,Benzylpenicillin,Yes,Empirical,Yes
+p07642/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,S.peumonia r/o Koch's Disease,1,Ceftriaxone,Yes,Directed,Yes
+P06471/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Moderate Bronchiolitis  with suspected Bacterial Pneumonia,3,Benzylpenicillin,Yes,Directed,No
+P06377/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe Bronchiolitis with Superimposed Pneumonia,1,Benzylpenicillin,No,Directed,Yes
+P04045/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Bronchiolitis with otitis media,3,Ceftriaxone,,Empirical,No
+P05170/26,University Teaching Hospital (Paediatric Hospital),Female,14,No,No,Negative,1. AGE 2. severe anaemia with recurrent macrocytic anaemia,1,Ceftriaxone,No,Empirical,Yes
+P0541926,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,,Severe pneumonia r/o PTB in RVD-E in acyanotic heart disease,4,Benzylpenicillin,No,Empirical,Yes
+P05429/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Mild bronchiolitis with pneumonia and anaemia,1,Ceftriaxone,No,Empirical,Yes
+P05493/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Viral pneumonia,3,Benzylpenicillin,No,Empirical,No
+P05508/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Yes,Negative,TB adenitis r/o lymphoma r/o pneumonia,2,Ceftriaxone,,Empirical,Yes
+P05517/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,1. Mild-moderate bronchiolitis with severe pneumonia 2. Meningoencephalitis 3. FTT with RVD-E not on ART,3,Ceftriaxone,No,Empirical,Yes
+P04912/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Severe acute bronchiolitis in RVD-E,3,Ceftriaxone,No,Empirical,No
+P04111/26,University Teaching Hospital (Paediatric Hospital),Female,-1,No,No,Negative,Iron Deficiency Anemia with Moderate Acute Malnutrition,1,Ceftriaxone,No,Empirical,Yes
+P04023/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Bronchiolitis with Superimposed Bacterial Pneumonia,1,Ceftriaxone,Yes,Empirical,Yes
+p0764/26,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,,Cholecystitis with hepatomegally ? hepatomegally,1,Ciprofloxacin,No,Empirical,Yes
+p07802/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis foci - ADD with ongoing losses with some dehydration,1,Cefotaxime,No,Empirical,Yes
+p04386/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe Acute bronchiolitis with superimposed pneumonia 2.Meningoencephalitis,1,Ceftriaxone,No,Empirical,Yes
+p04941,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,Unknown,Negative,1.pneumonia 2. S Malaria,1,Ceftriaxone,No,Empirical,Yes
+P04397/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Meningitis,1,Ceftriaxone,No,Empirical,Yes
+P04141/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe pneumonia with concerns for bronchiolitis,2,Ceftriaxone,Yes,Empirical,Yes
+P04244/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,1. Bronchiolitis 2. ACHD; PDA 4mm lt  to rt shunt . FTT,1,Ceftriaxone,No,Empirical,Yes
+P00716/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. Acute bronchiolitis 2. CHD-VSD,1,Benzylpenicillin,No,Empirical,No
+P02337/26,University Teaching Hospital (Paediatric Hospital),Female,1,Yes,Yes,Negative,1. Severe malaria 2. Post infectious cerebellar ataxia,1,Ceftriaxone,No,Prophylaxis,Yes
+P02391/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. Severe pneumonia 2. VSD on anti failure medication,2,Ceftriaxone,No,Empirical,Yes
+P02450/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Cow dip chemical poisoning,1,Ceftriaxone,No,Prophylaxis,No
+P02480/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,1. Mild bronchiolitis with mild anaemia,2,Cefotaxime,No,Empirical,Yes
+P02500/26,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,No,Negative,Severe pneumonia with ADD,2,Cefotaxime,No,Empirical,Yes
+P02530/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. LONNS 2Â° omphalitis 2. NNJ,1,Cefotaxime,No,Empirical,Yes
+P06335/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,Negative,Hemophilia and Superficial Burns,2,Ceftriaxone,,,Yes
+P05909/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sickle Cell Disease with UTI,1,Ceftriaxone,No,Directed,Yes
+P05083/26,University Teaching Hospital (Paediatric Hospital),Female,11,No,No,Negative,Cerebrovascular Accident in Sickle Cell Disease Patient with Sepsis,3,Ceftriaxone,No,Empirical,Yes
+P04577/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Severe Anemia with SCD and Acute Tonsilitis,2,Ceftriaxone,No,Empirical,Yes
+P03892/26,University Teaching Hospital (Paediatric Hospital),Male,12,No,No,,Acquired Aplastic Anemia,2,Ceftriaxone,Yes,Empirical,Yes
+p03226/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,,AGE,1,Ceftriaxone,Yes,Empirical,Yes
+P05862/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,,Severe Acute Bronchiolitis with Superimposed Pneumonia rule out Pulmonary Tuberculosis,2,Benzylpenicillin,Yes,Empirical,Yes
+P05812/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Tonsillitis adenoid hypertrophy,1,Benzylpenicillin,No,Empirical,No
+P05868/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,,"Presumptive TB, ADD with no dehydration",3,Ceftriaxone,No,Empirical,No
+P05867/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,ADD with no dehydration and coryzal illness in RVD-exposed,1,Co-trimoxazole,No,Empirical,Yes
+P06003/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Bronchiolitis r/o PTB in RVD-exposed,3,Benzylpenicillin,No,Empirical,No
+P,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Pneumonia + meningitis,1,Cefotaxime,No,Empirical,Yes
+P03846/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. Neonatal sepsis with hypoglycemia 2. ADD with FTT,1,Cefotaxime,No,Empirical,Yes
+P0390526,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,No,Negative,Moderate bronchiolitis with superimposed pneumonia,1,Cefotaxime,No,Empirical,Yes
+p060354/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Otitis media,2,Benzylpenicillin,Yes,Empirical,Yes
+p06044/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS,1,Cefotaxime,Yes,Empirical,Yes
+P03922/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Yes,Negative,"1. Mild acute bronchiolitis with superimposed pneumonia 2. CHD-AVSD, PDA 3. Oral candidiasis",1,Ceftriaxone,No,Empirical,Yes
+P04024/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Mild acute bronchiolitis with superimposed pneumonia,2,Ceftriaxone,Yes,Empirical,Yes
+P05935/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Congenital Lung Malformation,1,Cephalexin,No,Prophylaxis,Unknown
+P06069/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe Bronchiolitis with Suspected Bacterial Pneumonia,1,Benzylpenicillin,,Directed,Yes
+P05972/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Yes,Negative,Prolonged jaundice 2Â° biliary attestation r/o cholodocal cyst,1,Ceftriaxone,No,Empirical,No
+P06435/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,"ADD with some dehydration,  cannula site infection, eczema",2,Cefotaxime,No,Empirical,No
+P06152/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,,Mild bronchiolitis with pneumonia with ADD with no dehydration,1,Benzylpenicillin,No,Empirical,Yes
+P04020/26,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,No,Negative,Acute severe bronchiolitis,1,Ceftriaxone,No,Empirical,No
+P03117/26,University Teaching Hospital (Paediatric Hospital),Female,13,No,No,Negative,GBS-AMAN,1,Ceftriaxone,No,Prophylaxis,No
+P02994/26,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,No,Negative,"Severe malaria complicated by severe anemia,  cerebral malaria with seizures",1,Ceftriaxone,No,Prophylaxis,Yes
+P06590/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Viral encephalitis,1,Ceftriaxone,No,Empirical,No
+P06956/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe acute bronchiolitis,2,Benzylpenicillin,No,Empirical,No
+P03984/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,Pneumonia and SAM,2,Ceftriaxone,No,Empirical,No
+P03841/26,University Teaching Hospital (Paediatric Hospital),Female,6,No,No,Negative,Severe acute malnutrition with edema in known CP and hydrocephalus,2,Ciprofloxacin,No,Empirical,Yes
+P03111/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe acute malnutrition and Hydrocephalus with Pneumonia r/o PTB and urosepsis,2,Ciprofloxacin,No,Empirical,Yes
+P01325/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. LONNS 2. Neonatal jaundice 3. Subdural effusion with flattened gyri,2,Cefpodoxime,No,Empirical,No
+P00028/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Neonatal sepsis with otitis media,5,Benzylpenicillin,No,Empirical,Unknown
+P02726/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,1. LONNS 2. Neonatal jaundice 3. Recurrent hypoglycemia,2,Cefotaxime,No,Empirical,No
+p05035/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Suspected Chickenpox with reactive arthritis,2,Cloxacillin,Yes,Empirical,Yes
+P04300/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Staphyloccocal scalded skin sydrome,2,Cloxacillin,Yes,Empirical,Yes
+p03500/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,Yes,Negative,Presumptive PTB with superimposed pneumonia,2,Cloxacillin,No,Directed,Yes
+p04292/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,LONNS with pneumonia,2,Cloxacillin,Yes,Empirical,Yes
+P04198/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,LONNS with Meningitis 2.congenital loui,2,Cefotaxime,Yes,Empirical,Yes
+p03366/26,University Teaching Hospital (Paediatric Hospital),Male,9,No,No,Negative,Enteric fever,2,Meropenem,No,Empirical,Yes
+p02478/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,,SAM with Aspiration Pneumonia,2,Metronidazole,No,Empirical,Yes
+p02791/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,,SAM with S pneumonia,2,Meropenem,No,Empirical,Yes
+P05166/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,Yes,Negative,SAM and PTB,5,Piperacillin/tazobactam,No,Empirical,Yes
+P04996/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,Severe Acute malnutrition with wasting,2,Ceftriaxone,No,Prophylaxis,Yes
+P0715126,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,1. SAM 2. Pneumonia 3. Moderate ana,3,Ceftriaxone,No,Empirical,Yes
+P04095/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,1 P. sepsis 2. NNJ 3. Congenital Luis,3,Cefotaxime,No,Empirical,Yes
+P04313/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,Unknown,Negative,SAM in shunted hydrocephalus pt,2,Metronidazole,No,Empirical,Yes
+P01134/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Pneumonia in pt with Acyanotic CHD,2,Cefotaxime,No,Empirical,Yes
+P05967/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. EONNS 2. Neonatal jaundice 3. Opthalmia neonatorum,2,Cefpodoxime,No,Empirical,No
+P00790/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Severe acute malnutrition with Pneumonia and severe Anaemia,2,Ciprofloxacin,No,Empirical,Yes
+P00684/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Severe acute malnutrition with edema in known CP with pathological femur fracture,3,Cloxacillin,No,Empirical,Yes
+P00486,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Severe acute malnutrition with sepsis foci GI and AGE with ongoing losses and metabolic acidosis,2,Azithromycin,No,Empirical,Yes
+P03370/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Yes,Positive,RVD-R stage 4 with SAM and PTB with severe anaemia,3,Ciprofloxacin,No,Empirical,Yes
+P07340/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,"SAM, edematous type with dermatosis 3+ with chronic diarrhoea",2,Ceftriaxone,No,Empirical,Yes
+P06851/26,University Teaching Hospital (Paediatric Hospital),Male,2,Yes,No,Negative,1. SAM with oedema 2. Bilateral foot ulcers 3. Post severe malaria with neurological sequelae,3,Cloxacillin,No,Empirical,Yes
+P06148 /26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Unknown,Negative,1. SAM with AGE . TB,2,Ciprofloxacin,No,Empirical,Yes
+P07182/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever,3,Ceftriaxone,No,Empirical,Yes
+P04444/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Congenital luis complicated by pneumonia,2,Benzylpenicillin,No,Empirical,Yes
+P04420/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Cryptococcal meningitis,2,Cefpodoxime,No,Empirical,No
+P05519/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,Severe malaria complicated by severe anemia and AKI,2,Meropenem,No,Prophylaxis,No
+P07184/26,University Teaching Hospital (Paediatric Hospital),Female,5,No,No,Negative,"Pyelonephritis,  anal fissure,",2,Piperacillin/tazobactam,No,Empirical,Yes
+P05568/26,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,,AGE ? enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P07387/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Positive,"Meningoencephalitis r/o TBM,severe pneumonia in HIV positive",2,Cefixime,No,Empirical,Yes
+P06100/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,"Sepsis, severe malaria,  TOF and PDA in dysmorphic baby and superimposed pneumonia",2,Azithromycin,No,Empirical,Yes
+P07249/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,Enteric fever,3,Ciprofloxacin,No,Empirical,Yes
+P07252/26,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Enteric fever,2,Cefixime,No,Empirical,Yes
+P07148/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,Pneumonia and sepsis with panyctopenia,3,Co-trimoxazole,No,Empirical,No
+P05078/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever with moderate anemia r/o Kochs disease,4,Ceftriaxone,No,Directed,Yes
+P04106/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Late onset Neonatal Sepsis foci severe pneumonia and opthalmic neonatorum,2,Ciprofloxacin,No,Empirical,Yes
+P03931/26,University Teaching Hospital (Paediatric Hospital),Female,11,No,Yes,Positive,Pulmonary TB in RVD-R on ATT and ART,2,Co-trimoxazole,Yes,Empirical,Yes
+P03924/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Measles and Community acquired pneumonia,3,Azithromycin,No,Empirical,Yes
+P03318/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Enteric fever in newly diagnosed SCD,2,Meropenem,No,Empirical,Yes
+P0432/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Hyperactive airway disease,2,Amoxicillin,No,Empirical,Yes
+P02495/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Sepsis foci Acute Gastroenteritis with no dehydration and severe pneumonia,3,Ciprofloxacin,No,Empirical,Yes
+P06889/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,No,Negative,Severe acute malnutrition with wasting and AGE with some dehydration and CAP and severe malaria,2,Ciprofloxacin,No,Empirical,No
+P06049/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Severe acute malnutrition with wasting and AGE with ongoing losses,2,Ciprofloxacin,No,Empirical,Yes
+P00470/26,University Teaching Hospital (Paediatric Hospital),Female,1,No,No,Negative,Severe acute malnutrition with wasting and oral candidiasis with Pneumonia,2,Ciprofloxacin,No,Empirical,Yes
+P01802/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,Positive,1. Advanced HIV disease with presumptive PTB 2. FTT 3. Meningoencephalitis r/o TBM 4. Oral thrush,2,Co-trimoxazole,No,Prophylaxis,Yes
+P02725/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Staphylococcal Scalded Skin Syndrome,3,Cloxacillin,No,Empirical,Yes
+P02462/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Unknown,Positive,PTB in newly diagnosed RVD-R with MAM and moderate anaemia,2,Co-trimoxazole,No,Prophylaxis,Yes
+P06506/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Positive,Chronic malnutrition with severe wasting  in RVD-R,2,Ceftriaxone,No,Empirical,Yes
+P06868/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Measles with Pneumonia,2,Cefpodoxime,No,Empirical,Yes
+P06580/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Negative,Enteric fever and functional constipation,2,Metronidazole,No,Empirical,Yes
+P05959/26,University Teaching Hospital (Paediatric Hospital),Female,2,Yes,Yes,Positive,Advanced HIV disease on ART with presumptive PTB,2,Ceftriaxone,No,Empirical,Yes
+P05878/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Congenital Louis in RVD-exposed,2,Co-trimoxazole,No,Empirical,Yes
+P05816/26,University Teaching Hospital (Paediatric Hospital),Female,8,No,No,Negative,Enteric fever,2,Meropenem,No,Empirical,Yes
+P05781/26,University Teaching Hospital (Paediatric Hospital),Female,3,No,No,Negative,Severe pneumonia r/o PTB and pharyngotonsilitis,2,Azithromycin,No,Empirical,Yes
+P02374/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,Yes,Negative,Respiratory Failure secondary to milliary tb,3,Vancomycin,No,Empirical,Yes
+P00474/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,Enteric fever,3,Ceftriaxone,No,Empirical,Yes
+P00647/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,Negative,Enteric fever,3,Metronidazole,No,Empirical,Yes
+P00906/26,University Teaching Hospital (Paediatric Hospital),Female,15,No,No,Negative,Enteric fever,2,Metronidazole,Yes,Empirical,No
+P01055/26,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Presumptive enteric fever,2,Piperacillin/tazobactam,Yes,Directed,Yes
+P01299/26,University Teaching Hospital (Paediatric Hospital),Male,10,No,Yes,Negative,TB meningitis,2,Metronidazole,No,Empirical,Yes
+p01922/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,LONNS with congenital Loui,2,Cefotaxime,No,Empirical,Yes
+p02101/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS 2Â° TORCH with SSSS,2,Cloxacillin,No,Empirical,Yes
+p01735/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,SSSS,2,Cloxacillin,No,Empirical,Yes
+p01748/26,University Teaching Hospital (Paediatric Hospital),Female,6,No,No,Negative,Enteric Fever,2,Ciprofloxacin,Yes,Empirical,Yes
+p02433/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Congenital loui in pt with FTT and CHD,4,Benzylpenicillin,No,Empirical,Yes
+p03088,University Teaching Hospital (Paediatric Hospital),Female,8,No,No,,Enteric fever,2,Ceftriaxone,Yes,Empirical,Yes
+p03032/26,University Teaching Hospital (Paediatric Hospital),Male,7,No,No,Negative,Enteric fever,2,Meropenem,No,Empirical,Yes
+p030255/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,neonatal opthalmia,2,Benzyl penicillin eye drops,No,Empirical,Yes
+P01277/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,Negative,Enteric fever,2,Imipenem,No,Empirical,Yes
+P01273/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Early onset Neonatal Sepsis with Neonatal Jaundice and congenital Louis,2,Benzylpenicillin,No,Empirical,Yes
+P01111/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Congenital Louis,2,Amoxicillin,No,Empirical,No
+P01251/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Late onset Neonatal Sepsis and opthalmia neonatorum and paronychia in RVD-exposed,2,Cloxacillin,No,Empirical,No
+P01130/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,Enteric fever and moderate microcytic hypochromic anemia,2,Metronidazole,No,Empirical,No
+P00913/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,Severe Anaemia secondary to enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P00903/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,Meningococcal meningitis,2,Ciprofloxacin,No,Empirical,Yes
+P00675/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Enteric fever with severe anemia,3,Ciprofloxacin,No,Empirical,Yes
+P00153/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,No,Negative,Measles with acute Pharyngotonsilitis,2,Ceftriaxone,No,Empirical,Yes
+P00085/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Late onset Neonatal Sepsis and Staphylococcal scalded syndrome,2,Cloxacillin,No,Empirical,Yes
+p07841/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Aspiration Pneumonia inT21 with ACHD and congenital hypothyroidism,2,Ceftriaxone,No,Empirical,Yes
+P07313/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,Yes,Positive,Disseminated TB in newly diagnosed RVD-R,2,Co-trimoxazole,No,Empirical,Yes
+P07296/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Congenital syphilis inn RVD-E,2,Co-trimoxazole,No,Prophylaxis,Yes
+P04762/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,Positive,1. AHD with presumptive PTB 2. SAM 3. HIV associated lung disease,4,Ceftriaxone,No,Empirical,Yes
+P04015/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,Yes,Positive,1. Malaria 2. Milliary TB in RVD-R,3,Cefixime,No,Empirical,Yes
+P03907/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,Enteric fever with hematuria and proteinuria,2,Ciprofloxacin,No,Empirical,Yes
+P03377/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,1. Complicated enteric fever 2. Septic shock 3. Pneumonia 4. Moderate anaemia,5,Ciprofloxacin,No,Empirical,Yes
+P03296/6,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,1. Sepsis foci AGE 2. Pneumonia 3. Suspected enteric fever with severe anaemia & thrombocytopenia 4. CNS manifestations r/o TBM,5,Meropenem,No,Empirical,Yes
+P05847/26,University Teaching Hospital (Paediatric Hospital),Female,16,No,No,Positive,Enteric fever,4,Ceftriaxone,No,Empirical,Yes
+P03767/26,University Teaching Hospital (Paediatric Hospital),Female,16,No,No,Negative,1. Severe anaemia 2Â° amenorrhoea 2. Suspected SLE r/o enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P04530/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Bronchiolitis with severe anaemia,2,Ceftriaxone,No,Empirical,Yes
+P05168/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,1. Lt leg cellulitis 2. ? subacute osteomyelitis,2,Cloxacillin,No,Empirical,Yes
+P05043/26,University Teaching Hospital (Paediatric Hospital),Female,9,Yes,No,Negative,Severe malaria complicated by AKI with mild transaminitis,2,Ciprofloxacin,No,Empirical,Yes
+P02697/26,University Teaching Hospital (Paediatric Hospital),Female,15,No,No,,Cerebral malaria with severe anemia and respiratory failure,2,Ciprofloxacin,No,Prophylaxis,No
+P06505/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"Sepsis meningitis, Pneumonia alba, Congenital luis,  ?nephrotic syndrome",3,Benzylpenicillin,No,Empirical,Yes
+P06304/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with severe pneumonia,2,Cloxacillin,No,Empirical,Yes
+P05564/26,University Teaching Hospital (Paediatric Hospital),Male,16,No,No,,Enteric fever with moderate anemia,4,Ciprofloxacin,No,Empirical,Yes
+P02194/26,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,TBM,2,Azithromycin,No,Prophylaxis,No
+P06860/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,NNS with meningitis,2,Cefpodoxime,No,Empirical,No
+P02313/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS 2Â° omphalitis and bronchiolitis r/o meningitis,2,Cefpodoxime,No,Empirical,No
+P00686/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,"EONNS focus omphalitis, ophthalmia neonatorum",3,Cloxacillin,No,Empirical,Yes
+P00481/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with coryzal illness,2,Cloxacillin,No,Empirical,Yes
+P04227/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,NNJ 2Â° Sepsis,2,Cloxacillin,No,Empirical,Yes
+p01692/25,University Teaching Hospital (Paediatric Hospital),Male,0,Unknown,No,Negative,CAP vs PTB in RVD-R,3,Benzylpenicillin,No,Empirical,Yes
+P00874/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,1. Septic shock 2. Meningoencephalitis 3. Pneumonia r/o PTB 4. Enteric fever,2,Meropenem,No,Empirical,Yes
+P04895/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,Peritonitis & perforated bowel post lap for intussusception in septic shock with AKI & metabolic acidosis,2,Metronidazole,No,Empirical,Yes
+P04414/6,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,Unknown,,Severe bronchiolitis with respiratory failure,2,Co-trimoxazole,No,Prophylaxis,Yes
+P06859/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis meningitis with septic shock with MODs,4,Cefotaxime,No,Empirical,Yes
+P03241/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,Aplastic anemia with left hand cellulitis,3,Cloxacillin,No,Empirical,Yes
+p02411,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,ongoing sepsis with pneumonia,2,Piperacillin/tazobactam,No,Empirical,Yes
+p00698/26,University Teaching Hospital (Paediatric Hospital),Male,1,Yes,No,Negative,Sepsis with MODS,2,Meropenem,No,Empirical,Yes
+p04352/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,meningoencephalitis with symptomatic seizures  and raised ICP,2,Benzylpenicillin,No,Empirical,Yes
+p06402/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,MODS 2Â°Septic shock,2,Cloxacillin,No,Empirical,No
+p02734/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,S.pneumonia in AHD with presumptive,4,Co-trimoxazole,No,Prophylaxis,Yes
+p06456/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,,Enteric fever with bone marrow involvement,2,Ceftriaxone,,Empirical,Yes
+p10868/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Positive,S.Pneumonia,2,Co-trimoxazole,No,Empirical,Yes
+P06087/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Ventilator acquired pneumonia,4,Ceftriaxone,No,Empirical,Yes
+P07436/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Yes,Negative,Meningoencephalitis with raised ICP and acquired hydrocephalus secondary to TBM,2,Metronidazole,No,Empirical,Yes
+P005241/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe Pneumonia with respiratory failure  and sepsis with meningoencephalitis,3,Meropenem,No,Empirical,Yes
+001226/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Meningitis secondary to infected myelomeningocele,2,Ciprofloxacin,No,Empirical,Yes
+P01522/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Respiratory failure secondary to lung abcess and recurrent pneunothorax,3,Linezolid,No,Empirical,Yes
+P06481/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Yes,,Advanced HIV disease newly diagnosed with PTB r/o PJP,4,Azithromycin,No,Empirical,Yes
+P06488/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Congenital Luis with neonatal jaundice,3,Benzylpenicillin,No,Empirical,No
+P06457/26,University Teaching Hospital (Paediatric Hospital),Female,5,No,No,Negative,Enteric fever,2,Ciprofloxacin,Yes,Empirical,Yes
+P01319/26,University Teaching Hospital (Paediatric Hospital),Male,11,No,No,Negative,Enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P01423/26,University Teaching Hospital (Paediatric Hospital),Male,9,Unknown,No,Negative,Enteric fever with severe anaemia,2,Ciprofloxacin,No,Empirical,Yes
+p00527/26,University Teaching Hospital (Paediatric Hospital),Female,8,No,No,Negative,VOC in SCD with osteomyelitis,2,Ciprofloxacin,Yes,Empirical,Yes
+p00035/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,UTI,2,Nitrofurantoin,No,Empirical,Yes
+p01889/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,S . Pneumonia,2,Erythromycin,No,Empirical,Yes
+p06031/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1.LONNS 2. ACHD,2,Meropenem,Yes,Empirical,Yes
+p03978/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Congenital louis,2,Benzylpenicillin,No,Empirical,Yes
+P07520/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,"Sepsis,  complex ACHD, CLD with acute liver failure and ascites , MAM, ? Autoimmune hepatitis",2,Cefotaxime,No,Empirical,Yes
+P06286/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Sepsis foci meningoencephalitis and pneumonia in RVD-R exposed and T21,2,Co-trimoxazole,No,Empirical,Yes
+P00902/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,Yes,Negative,Meningoencephalitis r/o TBM and severe pneumonia and severe anemia,2,Cefepime,No,Empirical,Yes
+P05041/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Late onset Neonatal Sepsis and FTT,2,Benzylpenicillin,No,Empirical,Yes
+P00515/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Neonatal sepsis and Neonatal Jaundice r/o rh incompatibility,2,Cefpodoxime,No,Empirical,Yes
+P07503/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,meningoencephalitis,2,Benzylpenicillin,No,Empirical,Yes
+P02772/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Pneumonia and severe anemia,2,Cefpodoxime,No,Empirical,Yes
+P02331/26,University Teaching Hospital (Paediatric Hospital),Female,14,No,No,Negative,"Sepsic shock, meningitis, plastic anemia",2,Metronidazole,No,Empirical,No
+P02397/26,University Teaching Hospital (Paediatric Hospital),Female,6,No,No,Positive,Disseminated TB and SAM with wasting,2,Co-trimoxazole,No,Prophylaxis,Yes
+P02110/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,AGE r/o enteric fever,2,Ciprofloxacin,No,Empirical,Yes
+P02113/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,1. Sepsis focus ADD r/o enteric fever 2. Severe anaemia,2,Cefixime,No,Empirical,No
+P0198126,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,LONNS 2Â° to omphalitis in RVD-E,2,Cefotaxime,No,Empirical,Yes
+P02466/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS r/o congenital Luis,2,Cefpodoxime,No,Empirical,Yes
+P02497/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,EONNS with NNJ,2,Cefpodoxime,No,Empirical,Yes
+P02724/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with AGE and coryzal illness,2,Cefpodoxime,No,Empirical,Yes
+P0142526,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with skin infection,3,Cloxacillin,No,Empirical,Yes
+P02336/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,EONNS with NNJ,2,Cefpodoxime,No,Empirical,Yes
+P06501/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Severe pneumonia with congenital Luis,2,Benzylpenicillin,No,Empirical,Yes
+P05021/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Moderate bronchiolitis with superimposed pneumonia,2,Amoxicillin,Yes,Empirical,Yes
+P05113/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,Acute pharyngitis with pneumonia,3,Benzylpenicillin,No,Empirical,Yes
+P02383/26,University Teaching Hospital (Paediatric Hospital),Male,10,No,No,Negative,1. Septic shock 2Â° enteric fever 2. Large vessel vasculitis r/o takayasu disease,2,Ciprofloxacin,Yes,Empirical,Yes
+P01057/26,University Teaching Hospital (Paediatric Hospital),Female,14,No,No,Negative,1. Infective endocarditis in CCF r/o pulmonary embolism 2. Electrolyte imbalance 3. Infected decubitus ulcers 4. Chronic malnutrition with episodes of hypoglycemia,2,Cloxacillin,No,Empirical,Yes
+P01093/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Aspiration pneumonia and AGE,2,Metronidazole,No,Empirical,Yes
+P01294/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Acute bronchiolitis with superimposed pneumonia,2,Cephalexin,No,Empirical,Yes
+P00639/26,University Teaching Hospital (Paediatric Hospital),Female,10,Yes,No,Negative,Severe malaria complicated by cerebral malaria,2,Cefpodoxime,No,Empirical,Yes
+P00086/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe pneumonia,2,Ceftriaxone,No,Empirical,Yes
+P01691/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis foci pneumonia and CHD in T21,5,Gentamicin,No,Empirical,Yes
+P01764/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Moderate bronchiolitis and glomerulonephritis,2,Benzylpenicillin,No,Empirical,Yes
+P04504/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe pneumonia r/o PTB,3,Azithromycin,No,Empirical,Yes
+P01247/26,University Teaching Hospital (Paediatric Hospital),Male,3,Yes,No,Negative,Severe malaria complicated by moderate anemia,2,Cefixime,No,Prophylaxis,No
+P00619/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Acute bronchiolitis,2,Co-trimoxazole,No,Prophylaxis,Yes
+P00064/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Meningoencephalitis with ADD with ongoing loses,2,Cefuroxime,No,Empirical,No
+P01506/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,,Acute otitis media,2,Ciprofloxacin,No,Empirical,Yes
+P01817/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"Bronchiolitis with superimposed pneumonia,  AGE with no dehydration",2,Cefpodoxime,No,Empirical,No
+P01418/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Meningoencephalitis with moderate anemia,2,Ceftriaxone,Yes,Empirical,No
+P042494/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Yes,Negative,"Urosepsis,  SAM with oedema,  TBM with acute seizures",2,Meropenem,No,Empirical,Yes
+P07776/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Sepsis focus meningitis,3,Benzylpenicillin,No,Empirical,Yes
+P06358,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"LONNS secondary to omphalitiswith concerns for meningitis,  Congenital luis,  NNJ with concerns for BIND",2,Benzylpenicillin,No,Empirical,Yes
+P6428/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"LONNS with ophthalmia neonatorum, moderate anemia",2,Cefpodoxime,No,Empirical,Yes
+P00648/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,No,Negative,LONNS,2,Cefpodoxime,No,Empirical,Yes
+P07317/26,University Teaching Hospital (Paediatric Hospital),Male,-3,No,No,,"Sepsis, ADD with no dehydration,  metabolic acidosis",2,Co-trimoxazole,No,Prophylaxis,Yes
+P05975/26,University Teaching Hospital (Paediatric Hospital),Male,8,No,No,Negative,Meningoencephalitis r/o enteric fever,2,Meropenem,No,Empirical,Yes
+P06503/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Acute moderate bronchiolitis,2,Amoxicillin,No,Empirical,No
+P05996/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Severe aspiration pneumonia in RVD-EXPOSED,2,Co-trimoxazole,No,Empirical,Yes
+P07033/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe pneumonia with severe bronchiolitis and AGE with no dehydration with ongoing losses,2,Cephalexin,No,Empirical,Yes
+P07218/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Left submandibular lymphadenopathy r/o TB adenitis,2,Co-trimoxazole,Yes,Empirical,Yes
+P04986/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Bronchiolitis and pneumonia r/o CHD,2,Cefpodoxime,No,Empirical,Yes
+p00693/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,ACHD -ASD 2. S.pneumonia,2,Azithromycin,No,Empirical,Yes
+p06755/26,University Teaching Hospital (Paediatric Hospital),Male,9,No,No,,Acute pharyngotonsilitis,2,Amoxicillin,No,Empirical,Yes
+P06471/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Moderate Bronchiolitis  with suspected Bacterial Pneumonia,3,Cefotaxime,Yes,Empirical,Yes
+P04045/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Bronchiolitis with otitis media,3,Amoxicillin-clavulanate,No,Empirical,Yes
+P0541926,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,,Severe pneumonia r/o PTB in RVD-E in acyanotic heart disease,4,Benzylpenicillin,No,Empirical,Yes
+P05493/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Viral pneumonia,3,Cefotaxime,No,Empirical,No
+P05508/26,University Teaching Hospital (Paediatric Hospital),Male,1,No,Yes,Negative,TB adenitis r/o lymphoma r/o pneumonia,2,Azithromycin,No,Empirical,Yes
+P05517/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,1. Mild-moderate bronchiolitis with severe pneumonia 2. Meningoencephalitis 3. FTT with RVD-E not on ART,3,Azithromycin,No,Empirical,Yes
+P04912/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Severe acute bronchiolitis in RVD-E,3,Co-trimoxazole,No,Prophylaxis,Yes
+P04141/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe pneumonia with concerns for bronchiolitis,2,Amoxicillin-clavulanate,Yes,Empirical,Yes
+P02391/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,1. Severe pneumonia 2. VSD on anti failure medication,2,Cefpodoxime,No,Empirical,Yes
+P02480/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,1. Mild bronchiolitis with mild anaemia,2,Ceftriaxone,No,Empirical,Yes
+P02500/26,University Teaching Hospital (Paediatric Hospital),Female,0,Yes,No,Negative,Severe pneumonia with ADD,2,Azithromycin,No,Empirical,Yes
+P06335/26,University Teaching Hospital (Paediatric Hospital),Male,-1,No,No,Negative,Hemophilia and Superficial Burns,2,Cloxacillin,,Empirical,Yes
+P05083/26,University Teaching Hospital (Paediatric Hospital),Female,11,No,No,Negative,Cerebrovascular Accident in Sickle Cell Disease Patient with Sepsis,3,Ciprofloxacin,,Empirical,No
+P04577/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Severe Anemia with SCD and Acute Tonsilitis,2,Azithromycin,No,Empirical,
+P03892/26,University Teaching Hospital (Paediatric Hospital),Male,12,No,No,,Acquired Aplastic Anemia,2,Azithromycin,,Empirical,Yes
+P05862/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,,Severe Acute Bronchiolitis with Superimposed Pneumonia rule out Pulmonary Tuberculosis,2,Amoxicillin,,Empirical,Yes
+P05868/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,,"Presumptive TB, ADD with no dehydration",3,Co-trimoxazole,No,Prophylaxis,Yes
+P06003/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Bronchiolitis r/o PTB in RVD-exposed,3,Co-trimoxazole,No,Empirical,Yes
+p060354/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Otitis media,2,Amoxicillin,No,Empirical,Yes
+P04024/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Mild acute bronchiolitis with superimposed pneumonia,2,Amoxicillin,Yes,Empirical,Yes
+P06435/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,"ADD with some dehydration,  cannula site infection, eczema",2,Cephalexin,No,Empirical,Yes
+P06956/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe acute bronchiolitis,2,Amoxicillin,No,Empirical,No
+P00028/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Neonatal sepsis with otitis media,5,Metronidazole,No,Empirical,No
+P05166/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,Yes,Negative,SAM and PTB,5,Amikacin,No,Empirical,Yes
+P0715126,University Teaching Hospital (Paediatric Hospital),Male,0,No,Unknown,Negative,1. SAM 2. Pneumonia 3. Moderate ana,3,Ciprofloxacin,No,Empirical,Yes
+P04095/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,1 P. sepsis 2. NNJ 3. Congenital Luis,3,Cefotaxime,No,Empirical,Yes
+P00684/26,University Teaching Hospital (Paediatric Hospital),Male,2,No,No,Negative,Severe acute malnutrition with edema in known CP with pathological femur fracture,3,Ciprofloxacin,No,Empirical,Yes
+P03370/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,Yes,Positive,RVD-R stage 4 with SAM and PTB with severe anaemia,3,Co-trimoxazole,No,Prophylaxis,Yes
+P06851/26,University Teaching Hospital (Paediatric Hospital),Male,2,Yes,No,Negative,1. SAM with oedema 2. Bilateral foot ulcers 3. Post severe malaria with neurological sequelae,3,Cloxacillin,No,Empirical,Yes
+P07182/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever,3,Meropenem,No,Empirical,Yes
+P07249/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,No,Negative,Enteric fever,3,Meropenem,No,Empirical,Yes
+P07148/26,University Teaching Hospital (Paediatric Hospital),Male,4,No,No,Negative,Pneumonia and sepsis with panyctopenia,3,Ciprofloxacin,No,Empirical,Yes
+P05078/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever with moderate anemia r/o Kochs disease,4,Meropenem,No,Empirical,Yes
+P03924/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Positive,Measles and Community acquired pneumonia,3,Cefpodoxime,No,Empirical,Yes
+P02495/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Sepsis foci Acute Gastroenteritis with no dehydration and severe pneumonia,3,Metronidazole,No,Empirical,Yes
+P02725/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Staphylococcal Scalded Skin Syndrome,3,Cloxacillin,No,Empirical,Yes
+P02374/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,Yes,Negative,Respiratory Failure secondary to milliary tb,3,Meropenem,No,Empirical,Yes
+P00474/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,Enteric fever,3,Ciprofloxacin,No,Empirical,Yes
+P00647/26,University Teaching Hospital (Paediatric Hospital),Male,3,No,No,Negative,Enteric fever,3,Ciprofloxacin,No,Empirical,Yes
+p02433/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Congenital loui in pt with FTT and CHD,4,Ceftriaxone,No,Empirical,Yes
+P00675/26,University Teaching Hospital (Paediatric Hospital),Female,2,No,No,Negative,Enteric fever with severe anemia,3,Ciprofloxacin,No,Empirical,Yes
+P04762/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,Positive,1. AHD with presumptive PTB 2. SAM 3. HIV associated lung disease,4,Moxifloxacin,No,Empirical,Yes
+P04015/26,University Teaching Hospital (Paediatric Hospital),Male,0,Yes,Yes,Positive,1. Malaria 2. Milliary TB in RVD-R,3,Co-trimoxazole,No,Prophylaxis,Yes
+P03377/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,1. Complicated enteric fever 2. Septic shock 3. Pneumonia 4. Moderate anaemia,5,Imipenem,No,Empirical,Yes
+P03296/6,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,1. Sepsis foci AGE 2. Pneumonia 3. Suspected enteric fever with severe anaemia & thrombocytopenia 4. CNS manifestations r/o TBM,5,Meropenem,No,Empirical,Yes
+P05847/26,University Teaching Hospital (Paediatric Hospital),Female,16,No,No,Positive,Enteric fever,4,Ciprofloxacin,No,Empirical,Yes
+P06505/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,"Sepsis meningitis, Pneumonia alba, Congenital luis,  ?nephrotic syndrome",3,Cefpodoxime,No,Empirical,No
+P05564/26,University Teaching Hospital (Paediatric Hospital),Male,16,No,No,,Enteric fever with moderate anemia,4,Metronidazole,No,Empirical,No
+P00686/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,"EONNS focus omphalitis, ophthalmia neonatorum",3,Cefpodoxime,No,Empirical,No
+p01692/25,University Teaching Hospital (Paediatric Hospital),Male,0,Unknown,No,Negative,CAP vs PTB in RVD-R,3,Imipenem,No,Empirical,Yes
+P06859/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis meningitis with septic shock with MODs,4,Benzylpenicillin,No,Empirical,Yes
+P03241/26,University Teaching Hospital (Paediatric Hospital),Male,13,No,No,Negative,Aplastic anemia with left hand cellulitis,3,Metronidazole,No,Empirical,Yes
+p02734/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,S.pneumonia in AHD with presumptive,4,Piperacillin/tazobactam,No,Empirical,Yes
+P06087/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Ventilator acquired pneumonia,4,Cefepime,No,Empirical,Yes
+P005241/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Severe Pneumonia with respiratory failure  and sepsis with meningoencephalitis,3,Erythromycin,No,Empirical,Yes
+P01522/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Respiratory failure secondary to lung abcess and recurrent pneunothorax,3,Ceftriaxone,No,Empirical,Yes
+P06481/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Yes,,Advanced HIV disease newly diagnosed with PTB r/o PJP,4,Co-trimoxazole,No,Prophylaxis,Yes
+P06488/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Congenital Luis with neonatal jaundice,3,Benzylpenicillin,No,Empirical,Yes
+P0142526,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,LONNS with skin infection,3,Cefpodoxime,No,Empirical,Yes
+P05113/26,University Teaching Hospital (Paediatric Hospital),Male,5,No,No,Negative,Acute pharyngitis with pneumonia,3,Amoxicillin,No,Empirical,Yes
+P01691/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis foci pneumonia and CHD in T21,5,Ceftriaxone,No,Empirical,Yes
+P04504/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Severe pneumonia r/o PTB,3,Benzylpenicillin,No,Empirical,Yes
+P07776/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Sepsis focus meningitis,3,Meropenem,No,Empirical,Yes
+P04045/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Bronchiolitis with otitis media,3,Amoxicillin-clavulanate,No,Empirical,Yes
+P0541926,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,,Severe pneumonia r/o PTB in RVD-E in acyanotic heart disease,4,Cefotaxime,No,Empirical,No
+P05493/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Viral pneumonia,3,Ceftriaxone,No,Empirical,No
+P05517/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,1. Mild-moderate bronchiolitis with severe pneumonia 2. Meningoencephalitis 3. FTT with RVD-E not on ART,3,Co-trimoxazole,No,Prophylaxis,Yes
+P04912/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,,Severe acute bronchiolitis in RVD-E,3,Cefpodoxime,No,Empirical,No
+P05083/26,University Teaching Hospital (Paediatric Hospital),Female,11,No,No,Negative,Cerebrovascular Accident in Sickle Cell Disease Patient with Sepsis,3,Meropenem,,Empirical,Yes
+P05868/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,,"Presumptive TB, ADD with no dehydration",3,Benzylpenicillin,No,Empirical,No
+P06003/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,Bronchiolitis r/o PTB in RVD-exposed,3,Amoxicillin,No,Empirical,Yes
+P00028/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Neonatal sepsis with otitis media,5,Cefotaxime,No,Empirical,Yes
+P05166/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,Yes,Negative,SAM and PTB,5,Ciprofloxacin,No,Empirical,Yes
+P05078/26,University Teaching Hospital (Paediatric Hospital),Male,6,No,No,Negative,Enteric fever with moderate anemia r/o Kochs disease,4,Azithromycin,No,Empirical,No
+p02433/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,,Congenital loui in pt with FTT and CHD,4,Co-trimoxazole,No,Prophylaxis,Yes
+P04762/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,Positive,1. AHD with presumptive PTB 2. SAM 3. HIV associated lung disease,4,Co-trimoxazole,No,Prophylaxis,Yes
+P03377/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,1. Complicated enteric fever 2. Septic shock 3. Pneumonia 4. Moderate anaemia,5,Meropenem,No,Empirical,Yes
+P03296/6,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,1. Sepsis foci AGE 2. Pneumonia 3. Suspected enteric fever with severe anaemia & thrombocytopenia 4. CNS manifestations r/o TBM,5,Metronidazole,No,Empirical,Yes
+P05847/26,University Teaching Hospital (Paediatric Hospital),Female,16,No,No,Positive,Enteric fever,4,Ciprofloxacin,No,Empirical,Yes
+P05564/26,University Teaching Hospital (Paediatric Hospital),Male,16,No,No,,Enteric fever with moderate anemia,4,Meropenem,No,Empirical,Yes
+P06859/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis meningitis with septic shock with MODs,4,Meropenem,No,Empirical,Yes
+p02734/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Positive,S.pneumonia in AHD with presumptive,4,Gentamicin,No,Empirical,Yes
+P06087/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Ventilator acquired pneumonia,4,Erythromycin,No,Empirical,Yes
+P06481/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,Yes,,Advanced HIV disease newly diagnosed with PTB r/o PJP,4,Co-trimoxazole,No,Prophylaxis,Yes
+P01691/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis foci pneumonia and CHD in T21,5,Ciprofloxacin,No,Empirical,Yes
+P0541926,University Teaching Hospital (Paediatric Hospital),Female,0,No,Unknown,,Severe pneumonia r/o PTB in RVD-E in acyanotic heart disease,4,Co-trimoxazole,No,Prophylaxis,Yes
+P00028/26,University Teaching Hospital (Paediatric Hospital),Female,0,No,No,Negative,Neonatal sepsis with otitis media,5,Cefpodoxime,No,Empirical,No
+P05166/26,University Teaching Hospital (Paediatric Hospital),Female,4,No,Yes,Negative,SAM and PTB,5,Meropenem,No,Empirical,Yes
+P03377/26,University Teaching Hospital (Paediatric Hospital),Male,14,No,No,Negative,1. Complicated enteric fever 2. Septic shock 3. Pneumonia 4. Moderate anaemia,5,Meropenem,No,Empirical,Yes
+P03296/6,University Teaching Hospital (Paediatric Hospital),Female,9,No,No,Negative,1. Sepsis foci AGE 2. Pneumonia 3. Suspected enteric fever with severe anaemia & thrombocytopenia 4. CNS manifestations r/o TBM,5,Metronidazole,No,Empirical,Yes
+P01691/26,University Teaching Hospital (Paediatric Hospital),Male,0,No,No,Negative,Sepsis foci pneumonia and CHD in T21,5,Meropenem,No,Empirical,Yes
